@@ -1,0 +1,402 @@
+----------------------FNMS\Logger-Files\Logger_Northside_5.txt----------------------
+ArriveAtStore - Shaggy arrives at Northside FNMS Store
+arriveAtStore - A total of 3 items were added to inventory
+checkRegister - Shaggy finds $2,162.62 in register.
+placeAnOrder - 0 items were ordered
+doInventory - There are 45 items in the Northside store
+doInventory - There is 1229.1000000000001 of items in the Northside store
+doInventory - 2 items were damaged during tuning
+openTheStore - 4 items were sold
+openTheStore - 2 items were purchased
+leaveTheStore - Shaggy locks up the Northside store and leaves.
+ArriveAtStore - Shaggy arrives at Northside FNMS Store
+arriveAtStore - A total of 3 items were added to inventory
+checkRegister - Shaggy finds $2,085.30 in register.
+placeAnOrder - 0 items were ordered
+placeAnOrder - 0 items were ordered
+doInventory - There are 47 items in the Northside store
+doInventory - There is 1232.9 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 4 items were sold
+openTheStore - 4 items were purchased
+leaveTheStore - Shaggy locks up the Northside store and leaves.
+ArriveAtStore - Shaggy arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Shaggy finds $2,015.50 in register.
+placeAnOrder - 0 items were ordered
+doInventory - There are 47 items in the Northside store
+doInventory - There is 1156.3000000000002 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 7 items were sold
+openTheStore - 4 items were purchased
+leaveTheStore - Shaggy locks up the Northside store and leaves.
+ArriveAtStore - Scooby arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Scooby finds $1,992.60 in register.
+placeAnOrder - 3 items were ordered
+placeAnOrder - 3 items were ordered
+placeAnOrder - 0 items were ordered
+doInventory - There are 43 items in the Northside store
+doInventory - There is 1134.2 of items in the Northside store
+doInventory - 2 items were damaged during tuning
+openTheStore - 3 items were sold
+openTheStore - 1 items were purchased
+leaveTheStore - Scooby locks up the Northside store and leaves.
+ArriveAtStore - Abhi arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Abhi finds $2,073.20 in register.
+placeAnOrder - 3 items were ordered
+placeAnOrder - 0 items were ordered
+doInventory - There are 47 items in the Northside store
+doInventory - There is 1142.8 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 7 items were sold
+openTheStore - 3 items were purchased
+cleanTheStore - Abhi breaks something!
+leaveTheStore - Abhi locks up the Northside store and leaves.
+ArriveAtStore - Varun arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Varun finds $2,031.30 in register.
+placeAnOrder - 3 items were ordered
+doInventory - There are 44 items in the Northside store
+doInventory - There is 1064.3 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 3 items were sold
+openTheStore - 1 items were purchased
+leaveTheStore - Varun locks up the Northside store and leaves.
+ArriveAtStore - Velma arrives at Northside FNMS Store
+arriveAtStore - A total of 3 items were added to inventory
+checkRegister - Velma finds $2,071.90 in register.
+doInventory - There are 59 items in the Northside store
+doInventory - There is 1507.1000000000001 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 7 items were sold
+openTheStore - 1 items were purchased
+leaveTheStore - Velma locks up the Northside store and leaves.
+ArriveAtStore - Abhi arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Abhi finds $1,895.80 in register.
+doInventory - There are 53 items in the Northside store
+doInventory - There is 1213.2000000000003 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 7 items were sold
+openTheStore - 2 items were purchased
+leaveTheStore - Abhi locks up the Northside store and leaves.
+ArriveAtStore - Daphne arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Daphne finds $1,539.76 in register.
+placeAnOrder - 3 items were ordered
+placeAnOrder - 3 items were ordered
+doInventory - There are 59 items in the Northside store
+doInventory - There is 1439.8 of items in the Northside store
+doInventory - 1 items were damaged during tuning
+openTheStore - 7 items were sold
+openTheStore - 2 items were purchased
+leaveTheStore - Daphne locks up the Northside store and leaves.
+ArriveAtStore - Scooby arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Scooby finds $2,374.10 in register.
+placeAnOrder - 3 items were ordered
+placeAnOrder - 3 items were ordered
+doInventory - There are 41 items in the Northside store
+doInventory - There is 969.9 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 6 items were sold
+openTheStore - 1 items were purchased
+leaveTheStore - Scooby locks up the Northside store and leaves.
+ArriveAtStore - Varun arrives at Northside FNMS Store
+arriveAtStore - A total of 3 items were added to inventory
+checkRegister - Varun finds $2,235.10 in register.
+doInventory - There are 49 items in the Northside store
+doInventory - There is 963.0999999999999 of items in the Northside store
+doInventory - 3 items were damaged during tuning
+openTheStore - 8 items were sold
+openTheStore - 1 items were purchased
+leaveTheStore - Varun locks up the Northside store and leaves.
+ArriveAtStore - Daphne arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Daphne finds $2,359.92 in register.
+placeAnOrder - 3 items were ordered
+placeAnOrder - 3 items were ordered
+doInventory - There are 41 items in the Northside store
+doInventory - There is 960.6 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 8 items were sold
+openTheStore - 1 items were purchased
+leaveTheStore - Daphne locks up the Northside store and leaves.
+ArriveAtStore - Shaggy arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Shaggy finds $1,716.00 in register.
+placeAnOrder - 3 items were ordered
+placeAnOrder - 0 items were ordered
+placeAnOrder - 3 items were ordered
+doInventory - There are 47 items in the Northside store
+doInventory - There is 1368.5 of items in the Northside store
+doInventory - 2 items were damaged during tuning
+openTheStore - 5 items were sold
+openTheStore - 1 items were purchased
+cleanTheStore - Shaggy breaks something!
+leaveTheStore - Shaggy locks up the Northside store and leaves.
+ArriveAtStore - Abhi arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Abhi finds $1,952.00 in register.
+placeAnOrder - 0 items were ordered
+doInventory - There are 49 items in the Northside store
+doInventory - There is 1107.8 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 6 items were sold
+openTheStore - 2 items were purchased
+cleanTheStore - Abhi breaks something!
+leaveTheStore - Abhi locks up the Northside store and leaves.
+ArriveAtStore - Shaggy arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Shaggy finds $2,247.14 in register.
+placeAnOrder - 3 items were ordered
+placeAnOrder - 3 items were ordered
+doInventory - There are 44 items in the Northside store
+doInventory - There is 923.9 of items in the Northside store
+doInventory - 1 items were damaged during tuning
+openTheStore - 4 items were sold
+openTheStore - 1 items were purchased
+leaveTheStore - Shaggy locks up the Northside store and leaves.
+ArriveAtStore - Scooby arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Scooby finds $2,038.00 in register.
+doInventory - There are 43 items in the Northside store
+doInventory - There is 973.4 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 7 items were sold
+openTheStore - 2 items were purchased
+leaveTheStore - Scooby locks up the Northside store and leaves.
+ArriveAtStore - Shaggy arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Shaggy finds $1,835.80 in register.
+placeAnOrder - 3 items were ordered
+placeAnOrder - 3 items were ordered
+doInventory - There are 51 items in the Northside store
+doInventory - There is 1131.8 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 4 items were sold
+openTheStore - 1 items were purchased
+leaveTheStore - Shaggy locks up the Northside store and leaves.
+ArriveAtStore - Daphne arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Daphne finds $1,594.30 in register.
+placeAnOrder - 0 items were ordered
+doInventory - There are 53 items in the Northside store
+doInventory - There is 1511.8999999999999 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 6 items were sold
+openTheStore - 1 items were purchased
+leaveTheStore - Daphne locks up the Northside store and leaves.
+ArriveAtStore - Alexa arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Alexa finds $1,821.84 in register.
+placeAnOrder - 0 items were ordered
+doInventory - There are 49 items in the Northside store
+doInventory - There is 1319.3 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 5 items were sold
+openTheStore - 2 items were purchased
+leaveTheStore - Alexa locks up the Northside store and leaves.
+ArriveAtStore - Scooby arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Scooby finds $2,298.04 in register.
+doInventory - There are 46 items in the Northside store
+doInventory - There is 1232.2 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 8 items were sold
+openTheStore - 3 items were purchased
+leaveTheStore - Scooby locks up the Northside store and leaves.
+ArriveAtStore - Shaggy arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Shaggy finds $2,063.40 in register.
+placeAnOrder - 0 items were ordered
+placeAnOrder - 3 items were ordered
+doInventory - There are 52 items in the Northside store
+doInventory - There is 1100.1999999999998 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 3 items were sold
+openTheStore - 3 items were purchased
+leaveTheStore - Shaggy locks up the Northside store and leaves.
+ArriveAtStore - Alexa arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Alexa finds $2,033.06 in register.
+placeAnOrder - 3 items were ordered
+doInventory - There are 48 items in the Northside store
+doInventory - There is 1276.5 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 4 items were sold
+openTheStore - 3 items were purchased
+leaveTheStore - Alexa locks up the Northside store and leaves.
+ArriveAtStore - Scooby arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Scooby finds $2,020.48 in register.
+doInventory - There are 46 items in the Northside store
+doInventory - There is 1168.4 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 4 items were sold
+openTheStore - 3 items were purchased
+leaveTheStore - Scooby locks up the Northside store and leaves.
+ArriveAtStore - Velma arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Velma finds $1,947.56 in register.
+placeAnOrder - 3 items were ordered
+doInventory - There are 40 items in the Northside store
+doInventory - There is 879.0 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 3 items were sold
+openTheStore - 2 items were purchased
+leaveTheStore - Velma locks up the Northside store and leaves.
+ArriveAtStore - Varun arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Varun finds $2,276.14 in register.
+doInventory - There are 47 items in the Northside store
+doInventory - There is 1064.7 of items in the Northside store
+doInventory - 1 items were damaged during tuning
+openTheStore - 4 items were sold
+openTheStore - 1 items were purchased
+cleanTheStore - Varun breaks something!
+leaveTheStore - Varun locks up the Northside store and leaves.
+ArriveAtStore - Abhi arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Abhi finds $1,986.06 in register.
+placeAnOrder - 3 items were ordered
+doInventory - There are 46 items in the Northside store
+doInventory - There is 1316.7 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 7 items were sold
+openTheStore - 1 items were purchased
+leaveTheStore - Abhi locks up the Northside store and leaves.
+ArriveAtStore - Scooby arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Scooby finds $2,003.30 in register.
+placeAnOrder - 3 items were ordered
+doInventory - There are 48 items in the Northside store
+doInventory - There is 1044.0 of items in the Northside store
+doInventory - 2 items were damaged during tuning
+openTheStore - 6 items were sold
+openTheStore - 2 items were purchased
+leaveTheStore - Scooby locks up the Northside store and leaves.
+ArriveAtStore - Alexa arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Alexa finds $2,007.60 in register.
+placeAnOrder - 3 items were ordered
+doInventory - There are 47 items in the Northside store
+doInventory - There is 1121.0 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 4 items were sold
+openTheStore - 3 items were purchased
+leaveTheStore - Alexa locks up the Northside store and leaves.
+ArriveAtStore - Daphne arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Daphne finds $2,139.20 in register.
+placeAnOrder - 0 items were ordered
+placeAnOrder - 3 items were ordered
+placeAnOrder - 0 items were ordered
+placeAnOrder - 3 items were ordered
+doInventory - There are 51 items in the Northside store
+doInventory - There is 1000.9 of items in the Northside store
+doInventory - 1 items were damaged during tuning
+openTheStore - 4 items were sold
+openTheStore - 3 items were purchased
+cleanTheStore - Daphne breaks something!
+leaveTheStore - Daphne locks up the Northside store and leaves.
+ArriveAtStore - Abhi arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Abhi finds $2,024.00 in register.
+doInventory - There are 44 items in the Northside store
+doInventory - There is 982.8 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 6 items were sold
+openTheStore - 2 items were purchased
+leaveTheStore - Abhi locks up the Northside store and leaves.
+ArriveAtStore - Varun arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Varun finds $1,778.34 in register.
+placeAnOrder - 3 items were ordered
+placeAnOrder - 3 items were ordered
+doInventory - There are 49 items in the Northside store
+doInventory - There is 1109.4 of items in the Northside store
+doInventory - 1 items were damaged during tuning
+openTheStore - 5 items were sold
+openTheStore - 2 items were purchased
+leaveTheStore - Varun locks up the Northside store and leaves.
+ArriveAtStore - Velma arrives at Northside FNMS Store
+arriveAtStore - A total of 3 items were added to inventory
+checkRegister - Velma finds $1,986.00 in register.
+placeAnOrder - 0 items were ordered
+placeAnOrder - 3 items were ordered
+doInventory - There are 52 items in the Northside store
+doInventory - There is 1188.2000000000003 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 6 items were sold
+openTheStore - 1 items were purchased
+leaveTheStore - Velma locks up the Northside store and leaves.
+ArriveAtStore - Daphne arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Daphne finds $2,147.66 in register.
+doInventory - There are 46 items in the Northside store
+doInventory - There is 1176.4 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 6 items were sold
+openTheStore - 2 items were purchased
+leaveTheStore - Daphne locks up the Northside store and leaves.
+ArriveAtStore - Shaggy arrives at Northside FNMS Store
+arriveAtStore - A total of 3 items were added to inventory
+checkRegister - Shaggy finds $2,101.18 in register.
+placeAnOrder - 0 items were ordered
+doInventory - There are 49 items in the Northside store
+doInventory - There is 1262.1000000000001 of items in the Northside store
+doInventory - 2 items were damaged during tuning
+openTheStore - 5 items were sold
+openTheStore - 2 items were purchased
+leaveTheStore - Shaggy locks up the Northside store and leaves.
+ArriveAtStore - Varun arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Varun finds $1,743.90 in register.
+placeAnOrder - 0 items were ordered
+doInventory - There are 49 items in the Northside store
+doInventory - There is 1086.8999999999999 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 5 items were sold
+openTheStore - 0 items were purchased
+leaveTheStore - Varun locks up the Northside store and leaves.
+ArriveAtStore - Velma arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Velma finds $1,569.18 in register.
+doInventory - There are 57 items in the Northside store
+doInventory - There is 1334.2 of items in the Northside store
+doInventory - 1 items were damaged during tuning
+openTheStore - 6 items were sold
+openTheStore - 3 items were purchased
+leaveTheStore - Velma locks up the Northside store and leaves.
+ArriveAtStore - Fred arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Fred finds $1,938.30 in register.
+placeAnOrder - 0 items were ordered
+doInventory - There are 42 items in the Northside store
+doInventory - There is 1021.6 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 3 items were sold
+openTheStore - 0 items were purchased
+leaveTheStore - Fred locks up the Northside store and leaves.
+ArriveAtStore - Fred arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Fred finds $1,868.60 in register.
+doInventory - There are 51 items in the Northside store
+doInventory - There is 1280.3 of items in the Northside store
+doInventory - 1 items were damaged during tuning
+openTheStore - 5 items were sold
+openTheStore - 3 items were purchased
+leaveTheStore - Fred locks up the Northside store and leaves.
+ArriveAtStore - Scooby arrives at Northside FNMS Store
+arriveAtStore - A total of 0 items were added to inventory
+checkRegister - Scooby finds $1,577.90 in register.
+placeAnOrder - 3 items were ordered
+doInventory - There are 50 items in the Northside store
+doInventory - There is 1242.6000000000001 of items in the Northside store
+doInventory - 0 items were damaged during tuning
+openTheStore - 1 items were sold
+openTheStore - 4 items were purchased
+leaveTheStore - Scooby locks up the Northside store and leaves.

@@ -1,0 +1,3099 @@
+ 
+*** Simulation day 1 ***
+ 
+Store FNMS Northside opens today, day 1
+Abhi is working today.
+Day 1: ArriveAtStore - Abhi arrives at Northside FNMS Store
+Abhi checking for arriving items.
+Day 1: arriveAtStore - A total of 0 items were added to inventory
+Day 1: checkRegister - Abhi finds $0.00 in register.
+Cash register is low on funds.
+Abhi gets money from the bank.
+Day 1: checkRegister - Abhi finds $1,000.00 in register.
+Day 1: goToBank - there is now $1,000.00 in register
+Abhi is doing inventory.
+Abhi
+doInventoryGuitar 1 is tuned from false to true Manually
+doInventoryGuitar 1 is tuned from true to false Manually
+doInventoryGuitar 2 is tuned from false to true Manually
+doInventoryBass 1 is tuned from false to true Manually
+doInventoryBass 2 is tuned from false to true Manually
+doInventoryMandolin 1 is tuned from false to true Manually
+doInventoryMandolin 2 is tuned from false to true Manually
+doInventoryMandolin 3 is tuned from false to true Manually
+doInventoryFlute 1 is tuned from false to true Manually
+doInventoryFlute 2 is tuned from false to true Manually
+doInventoryFlute 3 is tuned from false to true Manually
+doInventoryHarmonica 1 is tuned from false to true Manually
+doInventoryHarmonica 2 is tuned from true to false Manually
+doInventoryHarmonica 3 is tuned from false to true Manually
+doInventoryCassette 1 is tuned from false to true Manually
+doInventoryCassette 2 is tuned from false to true Manually
+doInventoryRecord Player 1 is tuned from false to true Manually
+doInventoryRecord Player 2 is tuned from false to true Manually
+doInventoryRecord Player 3 is tuned from false to true Manually
+doInventoryCD Player 1 is tuned from true to false Manually
+doInventoryCD Player 3 is tuned from false to true Manually
+doInventoryMP3 Player 2 is tuned from false to true Manually
+doInventoryMP3 Player 2 is tuned from true to false Manually
+doInventoryMP3 Player 3 is tuned from false to true Manually
+doInventoryCassette Player 1 is tuned from false to true Manually
+doInventoryCassette Player 2 is tuned from false to true Manually
+doInventoryCassette Player 3 is tuned from false to true Manually
+doInventoryCassette Player 3 is tuned from true to false Manually
+doInventorySaxophone 1 is tuned from false to true Manually
+doInventorySaxophone 2 is tuned from false to true Manually
+doInventorySaxophone 3 is tuned from false to true Manually
+0
+Abhi counts 3 paperscore
+Abhi counts 3 cd
+Abhi counts 3 vinyl
+Abhi counts 3 guitar
+Abhi counts 3 bass
+Abhi counts 3 mandolin
+Abhi counts 3 flute
+Abhi counts 3 harmonica
+Abhi counts 3 cassette
+Abhi counts 3 recordplayer
+Abhi counts 3 cdplayer
+Abhi counts 3 mp3player
+Abhi counts 3 cassetteplayer
+Abhi counts 3 saxophone
+Abhi counts 3 practiceamp
+Abhi counts 3 cable
+Abhi counts 3 strings
+Abhi counts 3 gigbag
+Day 1: doInventory - There are 63 items in the Northside store
+Day 1: doInventory - There is 1522.0 of items in the Northside store
+Day 1: doInventory - 0 items were damaged during tuning
+8 buyers, 2 sellers today.
+Abhi serving Buyer 1
+Buyer 1 wants to buy a cable
+Item is cable in fair condition.
+Abhi selling at $4.00
+Abhi selling at $3.60
+Buyer 1 wouldn't buy item.
+Abhi serving Buyer 2
+Buyer 2 wants to buy a practiceamp
+Item is practiceamp in verygood condition.
+Abhi selling at $44.00
+Abhi selling at $39.60
+Buyer 2 wouldn't buy item.
+Abhi serving Buyer 3
+Buyer 3 wants to buy a harmonica
+Item is harmonica in fair condition.
+Abhi selling at $8.00
+Abhi selling at $7.20
+Buyer 3 wouldn't buy item.
+Abhi serving Buyer 4
+Buyer 4 wants to buy a cable
+Item is cable in fair condition.
+Abhi selling at $4.00
+Abhi selling at $3.60
+Abhi is selling cable for $3.60 to Buyer 4
+inventory count: 63
+inventory count: 62
+Abhi serving Buyer 5
+Buyer 5 wants to buy a cdplayer
+Item is cdplayer in fair condition.
+Abhi selling at $98.00
+Abhi selling at $88.20
+Buyer 5 wouldn't buy item.
+Abhi serving Buyer 6
+Buyer 6 wants to buy a bass
+Item is bass in excellent condition.
+Abhi selling at $90.00
+Abhi is selling bass for $90.00 to Buyer 6
+inventory count: 62
+inventory count: 61
+Abhi serving Buyer 7
+Buyer 7 wants to buy a shirt
+Item is shirt in poor condition.
+Abhi selling at $2.00
+Abhi selling at $1.80
+Buyer 7 wouldn't buy item.
+Abhi serving Buyer 8
+Buyer 8 wants to buy a hat
+Item is hat in verygood condition.
+Abhi selling at $8.00
+Abhi is selling hat for $8.00 to Buyer 8
+inventory count: 61
+inventory count: 60
+Day 1: openTheStore - 3 items were sold
+Abhi serving Seller 1
+Seller 1 wants to sell a bandana
+Item is bandana in poor condition.
+Abhi offers $9.00
+Abhi offers $9.90
+Abhi is buying bandana for $9.90 from Seller 1
+Abhi serving Seller 2
+Seller 2 wants to sell a recordplayer
+Item is recordplayer in excellent condition.
+Abhi offers $33.00
+Abhi is buying recordplayer for $33.00 from Seller 2
+Day 1: openTheStore - 2 items were purchased
+Abhi is cleaning up the store.
+Abhi doesn't break anything.
+Day 1: leaveTheStore - Abhi locks up the Northside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma            0                 0               0
+     Daphne            0                 0               0
+     Shaggy            0                 0               0
+      Varun            0                 0               0
+      Alexa            0                 0               0
+       Fred            0                 0               0
+     Scooby            0                 0               0
+       Abhi            3                 2               0
+-------------------------------------------------------------------
+ 
+Store FNMS Southside opens today, day 1
+Shaggy is working today.
+Day 1: ArriveAtStore - Shaggy arrives at Southside FNMS Store
+Shaggy checking for arriving items.
+Day 1: arriveAtStore - A total of 0 items were added to inventory
+Day 1: checkRegister - Shaggy finds $0.00 in register.
+Cash register is low on funds.
+Shaggy gets money from the bank.
+Day 1: checkRegister - Shaggy finds $1,000.00 in register.
+Day 1: goToBank - there is now $1,000.00 in register
+Shaggy is doing inventory.
+Shaggy
+doInventoryGuitar 1 is tuned from true to false in a Haphazard fashion
+doInventoryGuitar 1 is tuned from false to true in a Haphazard fashion
+doInventoryGuitar 2 is tuned from false to true in a Haphazard fashion
+doInventoryGuitar 3 is tuned from true to false in a Haphazard fashion
+doInventoryGuitar 3 is tuned from false to true in a Haphazard fashion
+doInventoryBass 1 is tuned from true to false in a Haphazard fashion
+doInventoryBass 3 is tuned from false to true in a Haphazard fashion
+doInventoryMandolin 1 is tuned from true to false in a Haphazard fashion
+doInventoryMandolin 1 is tuned from false to true in a Haphazard fashion
+doInventoryMandolin 2 is tuned from false to true in a Haphazard fashion
+doInventoryMandolin 3 is tuned from true to false in a Haphazard fashion
+doInventoryFlute 3 is tuned from false to true in a Haphazard fashion
+doInventoryHarmonica 3 is tuned from true to false in a Haphazard fashion
+doInventoryHarmonica 3 is tuned from false to true in a Haphazard fashion
+doInventoryCassette 1 is tuned from true to false in a Haphazard fashion
+doInventoryCassette 1 is tuned from false to true in a Haphazard fashion
+doInventoryCassette 3 is tuned from true to false in a Haphazard fashion
+doInventoryRecord Player 1 is tuned from true to false in a Haphazard fashion
+doInventoryRecord Player 1 is tuned from false to true in a Haphazard fashion
+doInventoryRecord Player 2 is tuned from true to false in a Haphazard fashion
+doInventoryRecord Player 2 is tuned from false to true in a Haphazard fashion
+doInventoryRecord Player 3 is tuned from false to true in a Haphazard fashion
+doInventoryCD Player 1 is tuned from true to false in a Haphazard fashion
+doInventoryCD Player 1 is tuned from false to true in a Haphazard fashion
+doInventoryCD Player 2 is tuned from true to false in a Haphazard fashion
+doInventoryCD Player 3 is tuned from true to false in a Haphazard fashion
+doInventoryCD Player 3 is tuned from false to true in a Haphazard fashion
+doInventoryMP3 Player 1 is tuned from true to false in a Haphazard fashion
+doInventoryMP3 Player 1 is tuned from false to true in a Haphazard fashion
+doInventoryMP3 Player 2 is tuned from true to false in a Haphazard fashion
+doInventoryMP3 Player 2 is tuned from false to true in a Haphazard fashion
+doInventoryMP3 Player 3 is tuned from false to true in a Haphazard fashion
+doInventoryCassette Player 1 is tuned from false to true in a Haphazard fashion
+doInventoryCassette Player 3 is tuned from true to false in a Haphazard fashion
+doInventoryCassette Player 3 is tuned from false to true in a Haphazard fashion
+doInventorySaxophone 2 is tuned from true to false in a Haphazard fashion
+doInventorySaxophone 3 is tuned from false to true in a Haphazard fashion
+0
+Shaggy counts 3 paperscore
+Shaggy counts 3 cd
+Shaggy counts 3 vinyl
+Shaggy counts 3 guitar
+Shaggy counts 3 bass
+Shaggy counts 3 mandolin
+Shaggy counts 3 flute
+Shaggy counts 3 harmonica
+Shaggy counts 3 cassette
+Shaggy counts 3 recordplayer
+Shaggy counts 3 cdplayer
+Shaggy counts 3 mp3player
+Shaggy counts 3 cassetteplayer
+Shaggy counts 3 saxophone
+Shaggy counts 3 practiceamp
+Shaggy counts 3 cable
+Shaggy counts 3 strings
+Shaggy counts 3 gigbag
+Day 1: doInventory - There are 63 items in the Southside store
+Day 1: doInventory - There is 1755.0 of items in the Southside store
+Day 1: doInventory - 0 items were damaged during tuning
+8 buyers, 2 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a cassette
+Item is cassette in poor condition.
+Shaggy selling at $4.00
+Shaggy selling at $3.60
+Buyer 1 wouldn't buy item.
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a cable
+Item is cable in excellent condition.
+Shaggy selling at $70.00
+Shaggy selling at $63.00
+Buyer 2 wouldn't buy item.
+Shaggy serving Buyer 3
+Buyer 3 wants to buy a guitar
+Item is guitar in poor condition.
+Shaggy selling at $50.00
+Shaggy is selling guitar for $50.00 to Buyer 3
+inventory count: 63
+inventory count: 62
+Shaggy serving Buyer 4
+Buyer 4 wants to buy a cable
+Item is cable in excellent condition.
+Shaggy selling at $70.00
+Shaggy is selling cable for $70.00 to Buyer 4
+inventory count: 62
+inventory count: 61
+Shaggy serving Buyer 5
+Buyer 5 wants to buy a cable
+Item is cable in verygood condition.
+Shaggy selling at $44.00
+Shaggy selling at $39.60
+Shaggy is selling cable for $39.60 to Buyer 5
+inventory count: 61
+inventory count: 60
+Shaggy serving Buyer 6
+Buyer 6 wants to buy a saxophone
+Item is saxophone in verygood condition.
+Shaggy selling at $40.00
+Shaggy selling at $36.00
+Shaggy is selling saxophone for $36.00 to Buyer 6
+inventory count: 60
+inventory count: 59
+Shaggy serving Buyer 7
+Buyer 7 wants to buy a harmonica
+Item is harmonica in poor condition.
+Shaggy selling at $50.00
+Shaggy selling at $45.00
+Shaggy is selling harmonica for $45.00 to Buyer 7
+inventory count: 59
+inventory count: 58
+Shaggy serving Buyer 8
+Buyer 8 wants to buy a cassetteplayer
+Item is cassetteplayer in verygood condition.
+Shaggy selling at $84.00
+Shaggy is selling cassetteplayer for $84.00 to Buyer 8
+inventory count: 58
+inventory count: 57
+Day 1: openTheStore - 6 items were sold
+Shaggy serving Seller 1
+Seller 1 wants to sell a bandana
+Item is bandana in fair condition.
+Shaggy offers $18.00
+Shaggy is buying bandana for $18.00 from Seller 1
+Shaggy serving Seller 2
+Seller 2 wants to sell a gigbag
+Item is gigbag in fair condition.
+Shaggy offers $18.00
+Shaggy offers $19.80
+Shaggy is buying gigbag for $19.80 from Seller 2
+Day 1: openTheStore - 2 items were purchased
+Shaggy is cleaning up the store.
+Shaggy doesn't break anything.
+Day 1: leaveTheStore - Shaggy locks up the Southside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma            0                 0               0
+     Daphne            0                 0               0
+     Shaggy            6                 2               0
+      Varun            0                 0               0
+      Alexa            0                 0               0
+       Fred            0                 0               0
+     Scooby            0                 0               0
+       Abhi            0                 0               0
+-------------------------------------------------------------------
+ 
+*** Simulation day 2 ***
+ 
+Store FNMS Northside opens today, day 2
+Alexa is working today.
+Day 2: ArriveAtStore - Alexa arrives at Northside FNMS Store
+Alexa checking for arriving items.
+Day 2: arriveAtStore - A total of 0 items were added to inventory
+Day 2: checkRegister - Alexa finds $1,058.70 in register.
+Alexa is doing inventory.
+Alexa
+doInventoryGuitar 1 is tuned from false to true Manually
+doInventoryGuitar 2 is tuned from false to true Manually
+doInventoryGuitar 3 is tuned from false to true Manually
+doInventoryBass 1 is tuned from false to true Manually
+Alexa breaks Bass 1
+Alexa breaks Bass 1
+doInventoryBass 1 is tuned from true to false Manually
+doInventoryBass 2 is tuned from false to true Manually
+doInventoryBass 2 is tuned from true to false Manually
+doInventoryMandolin 1 is tuned from false to true Manually
+doInventoryMandolin 2 is tuned from false to true Manually
+doInventoryMandolin 2 is tuned from true to false Manually
+doInventoryMandolin 3 is tuned from false to true Manually
+doInventoryFlute 1 is tuned from true to false Manually
+doInventoryFlute 2 is tuned from false to true Manually
+doInventoryHarmonica 1 is tuned from true to false Manually
+doInventoryHarmonica 2 is tuned from false to true Manually
+doInventoryHarmonica 3 is tuned from false to true Manually
+doInventoryCassette 1 is tuned from false to true Manually
+doInventoryCassette 2 is tuned from false to true Manually
+doInventoryCassette 3 is tuned from false to true Manually
+doInventoryRecord Player 1 is tuned from true to false Manually
+doInventoryRecord Player 2 is tuned from false to true Manually
+doInventoryRecord Player 3 is tuned from false to true Manually
+doInventoryRecord Player 4 is tuned from true to false Manually
+doInventoryCD Player 1 is tuned from false to true Manually
+doInventoryCD Player 2 is tuned from false to true Manually
+doInventoryCD Player 3 is tuned from true to false Manually
+doInventoryMP3 Player 1 is tuned from false to true Manually
+doInventoryMP3 Player 2 is tuned from false to true Manually
+doInventoryMP3 Player 3 is tuned from false to true Manually
+doInventoryCassette Player 1 is tuned from false to true Manually
+doInventorySaxophone 1 is tuned from false to true Manually
+doInventorySaxophone 2 is tuned from false to true Manually
+doInventorySaxophone 3 is tuned from true to false Manually
+1
+Alexa counts 3 paperscore
+Alexa counts 3 cd
+Alexa counts 3 vinyl
+Alexa counts 3 guitar
+Alexa counts 2 bass
+Alexa counts 3 mandolin
+Alexa counts 3 flute
+Alexa counts 3 harmonica
+Alexa counts 3 cassette
+Alexa counts 4 recordplayer
+Alexa counts 3 cdplayer
+Alexa counts 3 mp3player
+Alexa counts 3 cassetteplayer
+Alexa counts 3 saxophone
+Alexa counts 3 practiceamp
+Alexa counts 2 cable
+Alexa counts 3 strings
+Alexa counts 3 gigbag
+Day 2: doInventory - There are 62 items in the Northside store
+Day 2: doInventory - There is 1513.9 of items in the Northside store
+Day 2: doInventory - 1 items were damaged during tuning
+5 buyers, 3 sellers today.
+Alexa serving Buyer 1
+Buyer 1 wants to buy a bandana
+Item is bandana in poor condition.
+Alexa selling at $19.80
+Alexa is selling bandana for $19.80 to Buyer 1
+inventory count: 62
+inventory count: 61
+Alexa serving Buyer 2
+Buyer 2 wants to buy a cassette
+Item is cassette in fair condition.
+Alexa selling at $4.00
+Alexa selling at $3.60
+Alexa is selling cassette for $3.60 to Buyer 2
+inventory count: 61
+inventory count: 60
+Alexa serving Buyer 3
+Buyer 3 wants to buy a flute
+Item is flute in excellent condition.
+Alexa selling at $80.00
+Alexa selling at $72.00
+Alexa is selling flute for $72.00 to Buyer 3
+inventory count: 60
+inventory count: 59
+Alexa serving Buyer 4
+Buyer 4 wants to buy a harmonica
+Item is harmonica in fair condition.
+Alexa selling at $8.00
+Alexa is selling harmonica for $8.00 to Buyer 4
+inventory count: 59
+inventory count: 58
+Alexa serving Buyer 5
+Buyer 5 wants to buy a hat
+Item is hat in poor condition.
+Alexa selling at $14.00
+Alexa selling at $12.60
+Alexa is selling hat for $12.60 to Buyer 5
+inventory count: 58
+inventory count: 57
+Day 2: openTheStore - 5 items were sold
+Alexa serving Seller 1
+Seller 1 wants to sell a vinyl
+Item is vinyl in excellent condition.
+Alexa offers $19.00
+Alexa offers $20.90
+Seller 1 wouldn't sell item.
+Alexa serving Seller 2
+Seller 2 wants to sell a gigbag
+Item is gigbag in poor condition.
+Alexa offers $4.00
+Alexa offers $4.40
+Alexa is buying gigbag for $4.40 from Seller 2
+Alexa serving Seller 3
+Seller 3 wants to sell a cassette
+Item is cassette in good condition.
+Alexa offers $8.00
+Alexa is buying cassette for $8.00 from Seller 3
+Day 2: openTheStore - 2 items were purchased
+Alexa is cleaning up the store.
+Alexa doesn't break anything.
+Day 2: leaveTheStore - Alexa locks up the Northside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma            0                 0               0
+     Daphne            0                 0               0
+     Shaggy            0                 0               0
+      Varun            0                 0               0
+      Alexa            5                 2               1
+       Fred            0                 0               0
+     Scooby            0                 0               0
+       Abhi            3                 2               0
+-------------------------------------------------------------------
+ 
+Store FNMS Southside opens today, day 2
+Velma is working today.
+Day 2: ArriveAtStore - Velma arrives at Southside FNMS Store
+Velma checking for arriving items.
+Day 2: arriveAtStore - A total of 0 items were added to inventory
+Day 2: checkRegister - Velma finds $1,286.80 in register.
+Velma is doing inventory.
+Velma
+doInventoryGuitar 1 is tuned from false to true Manually
+doInventoryBass 1 is tuned from false to true Manually
+doInventoryBass 1 is tuned from true to false Manually
+doInventoryBass 2 is tuned from false to true Manually
+doInventoryBass 3 is tuned from false to true Manually
+doInventoryMandolin 1 is tuned from false to true Manually
+doInventoryMandolin 2 is tuned from false to true Manually
+doInventoryFlute 1 is tuned from false to true Manually
+doInventoryFlute 2 is tuned from false to true Manually
+doInventoryFlute 3 is tuned from false to true Manually
+doInventoryHarmonica 2 is tuned from false to true Manually
+doInventoryCassette 1 is tuned from false to true Manually
+doInventoryCassette 2 is tuned from false to true Manually
+doInventoryCassette 2 is tuned from true to false Manually
+doInventoryRecord Player 1 is tuned from false to true Manually
+doInventoryRecord Player 2 is tuned from true to false Manually
+doInventoryRecord Player 3 is tuned from false to true Manually
+Velma breaks Record Player 3
+Velma breaks Record Player 3
+doInventoryRecord Player 3 is tuned from true to false Manually
+doInventoryCD Player 1 is tuned from false to true Manually
+doInventoryCD Player 1 is tuned from true to false Manually
+doInventoryCD Player 2 is tuned from false to true Manually
+doInventoryCD Player 3 is tuned from false to true Manually
+doInventoryMP3 Player 2 is tuned from false to true Manually
+doInventoryMP3 Player 2 is tuned from true to false Manually
+doInventoryMP3 Player 3 is tuned from false to true Manually
+doInventoryCassette Player 1 is tuned from false to true Manually
+doInventorySaxophone 1 is tuned from false to true Manually
+doInventorySaxophone 2 is tuned from false to true Manually
+1
+Velma counts 3 paperscore
+Velma counts 3 cd
+Velma counts 3 vinyl
+Velma counts 2 guitar
+Velma counts 3 bass
+Velma counts 3 mandolin
+Velma counts 3 flute
+Velma counts 2 harmonica
+Velma counts 3 cassette
+Velma counts 3 recordplayer
+Velma counts 3 cdplayer
+Velma counts 3 mp3player
+Velma counts 2 cassetteplayer
+Velma counts 2 saxophone
+Velma counts 3 practiceamp
+Velma counts 1 cable
+Velma counts 3 strings
+Velma counts 4 gigbag
+Day 2: doInventory - There are 59 items in the Southside store
+Day 2: doInventory - There is 1623.8 of items in the Southside store
+Day 2: doInventory - 1 items were damaged during tuning
+6 buyers, 2 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a cable
+Item is cable in excellent condition.
+Velma selling at $26.00
+Velma selling at $23.40
+Velma is selling cable for $23.40 to Buyer 1
+inventory count: 59
+inventory count: 58
+Velma serving Buyer 2
+Buyer 2 wants to buy a cdplayer
+Item is cdplayer in excellent condition.
+Velma selling at $96.00
+Velma is selling cdplayer for $96.00 to Buyer 2
+inventory count: 58
+inventory count: 57
+Velma serving Buyer 3
+Buyer 3 wants to buy a flute
+Item is flute in poor condition.
+Velma selling at $42.00
+Velma selling at $37.80
+Buyer 3 wouldn't buy item.
+Velma serving Buyer 4
+Buyer 4 wants to buy a cable
+Buyer 4 doesn't buy, no items in stock.
+Velma serving Buyer 5
+Buyer 5 wants to buy a bass
+Item is bass in poor condition.
+Velma selling at $10.00
+Velma selling at $9.00
+Buyer 5 wouldn't buy item.
+Velma serving Buyer 6
+Buyer 6 wants to buy a strings
+Item is strings in poor condition.
+Velma selling at $34.00
+Velma selling at $30.60
+Buyer 6 wouldn't buy item.
+Day 2: openTheStore - 2 items were sold
+Velma serving Seller 1
+Seller 1 wants to sell a shirt
+Item is shirt in poor condition.
+Velma offers $6.00
+Velma is buying shirt for $6.00 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a hat
+Item is hat in excellent condition.
+Velma offers $21.00
+Velma is buying hat for $21.00 from Seller 2
+Day 2: openTheStore - 2 items were purchased
+Velma is cleaning up the store.
+Velma doesn't break anything.
+Day 2: leaveTheStore - Velma locks up the Southside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma            2                 2               1
+     Daphne            0                 0               0
+     Shaggy            6                 2               0
+      Varun            0                 0               0
+      Alexa            0                 0               0
+       Fred            0                 0               0
+     Scooby            0                 0               0
+       Abhi            0                 0               0
+-------------------------------------------------------------------
+ 
+*** Simulation day 3 ***
+ 
+Store FNMS Northside opens today, day 3
+Abhi is working today.
+Day 3: ArriveAtStore - Abhi arrives at Northside FNMS Store
+Abhi checking for arriving items.
+Day 3: arriveAtStore - A total of 0 items were added to inventory
+Day 3: checkRegister - Abhi finds $1,162.30 in register.
+Abhi is doing inventory.
+Abhi
+doInventoryGuitar 1 is tuned from false to true Electronically
+doInventoryGuitar 2 is tuned from false to true Electronically
+doInventoryGuitar 3 is tuned from false to true Electronically
+doInventoryBass 1 is tuned from false to true Electronically
+doInventoryBass 2 is tuned from false to true Electronically
+doInventoryMandolin 1 is tuned from false to true Electronically
+doInventoryMandolin 2 is tuned from false to true Electronically
+doInventoryMandolin 3 is tuned from false to true Electronically
+doInventoryFlute 1 is tuned from false to true Electronically
+doInventoryFlute 2 is tuned from false to true Electronically
+doInventoryHarmonica 1 is tuned from false to true Electronically
+doInventoryHarmonica 2 is tuned from false to true Electronically
+doInventoryRecord Player 1 is tuned from false to true Electronically
+doInventoryRecord Player 4 is tuned from false to true Electronically
+doInventoryCD Player 3 is tuned from false to true Electronically
+doInventoryCassette Player 3 is tuned from false to true Electronically
+doInventorySaxophone 1 is tuned from false to true Electronically
+doInventorySaxophone 2 is tuned from false to true Electronically
+doInventorySaxophone 3 is tuned from false to true Electronically
+0
+Abhi counts 3 paperscore
+Abhi counts 3 cd
+Abhi counts 3 vinyl
+Abhi counts 3 guitar
+Abhi counts 2 bass
+Abhi counts 3 mandolin
+Abhi counts 2 flute
+Abhi counts 2 harmonica
+Abhi counts 3 cassette
+Abhi counts 4 recordplayer
+Abhi counts 3 cdplayer
+Abhi counts 3 mp3player
+Abhi counts 3 cassetteplayer
+Abhi counts 3 saxophone
+Abhi counts 3 practiceamp
+Abhi counts 2 cable
+Abhi counts 3 strings
+Abhi counts 4 gigbag
+Day 3: doInventory - There are 59 items in the Northside store
+Day 3: doInventory - There is 1463.4 of items in the Northside store
+Day 3: doInventory - 0 items were damaged during tuning
+5 buyers, 1 sellers today.
+Abhi serving Buyer 1
+Buyer 1 wants to buy a recordplayer
+Item is recordplayer in excellent condition.
+Abhi selling at $66.00
+Abhi selling at $59.40
+Abhi is selling recordplayer for $59.40 to Buyer 1
+inventory count: 59
+inventory count: 58
+Abhi serving Buyer 2
+Buyer 2 wants to buy a strings
+Item is strings in poor condition.
+Abhi selling at $78.00
+Abhi is selling strings for $78.00 to Buyer 2
+inventory count: 58
+inventory count: 57
+Abhi serving Buyer 3
+Buyer 3 wants to buy a paperscore
+Item is paperscore in good condition.
+Abhi selling at $16.00
+Abhi is selling paperscore for $16.00 to Buyer 3
+inventory count: 57
+inventory count: 56
+Abhi serving Buyer 4
+Buyer 4 wants to buy a cassetteplayer
+Item is cassetteplayer in poor condition.
+Abhi selling at $56.00
+Abhi is selling cassetteplayer for $56.00 to Buyer 4
+inventory count: 56
+inventory count: 55
+Abhi serving Buyer 5
+Buyer 5 wants to buy a cassette
+Item is cassette in good condition.
+Abhi selling at $16.00
+Abhi is selling cassette for $16.00 to Buyer 5
+inventory count: 55
+inventory count: 54
+Day 3: openTheStore - 5 items were sold
+Abhi serving Seller 1
+Seller 1 wants to sell a strings
+Item is strings in verygood condition.
+Abhi offers $21.00
+Abhi is buying strings for $21.00 from Seller 1
+Day 3: openTheStore - 1 items were purchased
+Abhi is cleaning up the store.
+Abhi doesn't break anything.
+Day 3: leaveTheStore - Abhi locks up the Northside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma            0                 0               0
+     Daphne            0                 0               0
+     Shaggy            0                 0               0
+      Varun            0                 0               0
+      Alexa            5                 2               1
+       Fred            0                 0               0
+     Scooby            0                 0               0
+       Abhi            8                 3               0
+-------------------------------------------------------------------
+ 
+Store FNMS Southside opens today, day 3
+Daphne is working today.
+Day 3: ArriveAtStore - Daphne arrives at Southside FNMS Store
+Daphne checking for arriving items.
+Day 3: arriveAtStore - A total of 0 items were added to inventory
+Day 3: checkRegister - Daphne finds $1,379.20 in register.
+Daphne is doing inventory.
+Daphne
+doInventoryGuitar 1 is tuned from false to true Manually
+doInventoryGuitar 2 is tuned from false to true Manually
+doInventoryBass 1 is tuned from false to true Manually
+doInventoryBass 2 is tuned from false to true Manually
+doInventoryBass 3 is tuned from false to true Manually
+doInventoryMandolin 1 is tuned from false to true Manually
+Daphne breaks Mandolin 1
+Daphne breaks Mandolin 1
+doInventoryMandolin 1 is tuned from true to false Manually
+doInventoryMandolin 2 is tuned from false to true Manually
+doInventoryMandolin 2 is tuned from true to false Manually
+doInventoryMandolin 3 is tuned from false to true Manually
+doInventoryFlute 1 is tuned from false to true Manually
+doInventoryFlute 2 is tuned from false to true Manually
+doInventoryHarmonica 1 is tuned from false to true Manually
+doInventoryHarmonica 1 is tuned from true to false Manually
+doInventoryHarmonica 2 is tuned from false to true Manually
+doInventoryCassette 1 is tuned from false to true Manually
+doInventoryCassette 2 is tuned from false to true Manually
+doInventoryCassette 2 is tuned from true to false Manually
+doInventoryCassette 3 is tuned from false to true Manually
+doInventoryCassette 3 is tuned from true to false Manually
+doInventoryRecord Player 1 is tuned from false to true Manually
+doInventoryRecord Player 2 is tuned from false to true Manually
+doInventoryRecord Player 3 is tuned from false to true Manually
+doInventoryRecord Player 3 is tuned from true to false Manually
+doInventoryCD Player 1 is tuned from false to true Manually
+doInventoryCD Player 2 is tuned from false to true Manually
+doInventoryMP3 Player 1 is tuned from false to true Manually
+doInventoryMP3 Player 2 is tuned from false to true Manually
+doInventoryMP3 Player 3 is tuned from false to true Manually
+doInventoryMP3 Player 3 is tuned from true to false Manually
+doInventoryCassette Player 2 is tuned from true to false Manually
+doInventorySaxophone 1 is tuned from false to true Manually
+doInventorySaxophone 1 is tuned from true to false Manually
+doInventorySaxophone 2 is tuned from false to true Manually
+1
+Daphne counts 3 paperscore
+Daphne counts 3 cd
+Daphne counts 3 vinyl
+Daphne counts 2 guitar
+Daphne counts 3 bass
+Daphne counts 3 mandolin
+Daphne counts 3 flute
+Daphne counts 2 harmonica
+Daphne counts 3 cassette
+Daphne counts 3 recordplayer
+Daphne counts 2 cdplayer
+Daphne counts 3 mp3player
+Daphne counts 2 cassetteplayer
+Daphne counts 2 saxophone
+Daphne counts 3 practiceamp
+Daphne counts 0 cable
+Daphne needs to order cable
+Daphne ordered a cable
+Daphne ordered a cable
+Daphne ordered a cable
+Day 3: placeAnOrder - 3 items were ordered
+Daphne counts 3 strings
+Daphne counts 4 gigbag
+Day 3: doInventory - There are 59 items in the Southside store
+Day 3: doInventory - There is 1589.8 of items in the Southside store
+Day 3: doInventory - 1 items were damaged during tuning
+5 buyers, 3 sellers today.
+Daphne serving Buyer 1
+Buyer 1 wants to buy a hat
+Item is hat in excellent condition.
+Daphne selling at $42.00
+Daphne selling at $37.80
+Daphne is selling hat for $37.80 to Buyer 1
+inventory count: 59
+inventory count: 58
+Daphne serving Buyer 2
+Buyer 2 wants to buy a cdplayer
+Item is cdplayer in excellent condition.
+Daphne selling at $96.00
+Daphne is selling cdplayer for $96.00 to Buyer 2
+inventory count: 58
+inventory count: 57
+Daphne serving Buyer 3
+Buyer 3 wants to buy a guitar
+Item is guitar in excellent condition.
+Daphne selling at $26.00
+Daphne is selling guitar for $26.00 to Buyer 3
+inventory count: 57
+inventory count: 56
+Daphne serving Buyer 4
+Buyer 4 wants to buy a mp3player
+Item is mp3player in fair condition.
+Daphne selling at $100.00
+Daphne is selling mp3player for $100.00 to Buyer 4
+inventory count: 56
+inventory count: 55
+Daphne serving Buyer 5
+Buyer 5 wants to buy a shirt
+Item is shirt in poor condition.
+Daphne selling at $12.00
+Daphne selling at $10.80
+Daphne is selling shirt for $10.80 to Buyer 5
+inventory count: 55
+inventory count: 54
+Day 3: openTheStore - 5 items were sold
+Daphne serving Seller 1
+Seller 1 wants to sell a paperscore
+Item is paperscore in excellent condition.
+Daphne offers $12.00
+Daphne is buying paperscore for $12.00 from Seller 1
+Daphne serving Seller 2
+Seller 2 wants to sell a cassetteplayer
+Item is cassetteplayer in excellent condition.
+Daphne offers $11.00
+Daphne offers $12.10
+Daphne is buying cassetteplayer for $12.10 from Seller 2
+Daphne serving Seller 3
+Seller 3 wants to sell a cdplayer
+Item is cdplayer in verygood condition.
+Daphne offers $27.00
+Daphne is buying cdplayer for $27.00 from Seller 3
+Day 3: openTheStore - 3 items were purchased
+Daphne is cleaning up the store.
+Daphne doesn't break anything.
+Day 3: leaveTheStore - Daphne locks up the Southside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma            2                 2               1
+     Daphne            5                 6               1
+     Shaggy            6                 2               0
+      Varun            0                 0               0
+      Alexa            0                 0               0
+       Fred            0                 0               0
+     Scooby            0                 0               0
+       Abhi            0                 0               0
+-------------------------------------------------------------------
+ 
+*** Simulation day 4 ***
+ 
+Store FNMS Northside opens today, day 4
+Velma is working today.
+Day 4: ArriveAtStore - Velma arrives at Northside FNMS Store
+Velma checking for arriving items.
+Day 4: arriveAtStore - A total of 0 items were added to inventory
+Day 4: checkRegister - Velma finds $1,366.70 in register.
+Velma is doing inventory.
+Velma
+doInventoryGuitar 2 is tuned from false to true in a Haphazard fashion
+doInventoryGuitar 3 is tuned from true to false in a Haphazard fashion
+doInventoryBass 1 is tuned from false to true in a Haphazard fashion
+doInventoryMandolin 1 is tuned from true to false in a Haphazard fashion
+doInventoryMandolin 2 is tuned from false to true in a Haphazard fashion
+doInventoryMandolin 3 is tuned from true to false in a Haphazard fashion
+doInventoryFlute 2 is tuned from false to true in a Haphazard fashion
+doInventoryHarmonica 2 is tuned from true to false in a Haphazard fashion
+doInventoryHarmonica 2 is tuned from false to true in a Haphazard fashion
+doInventoryCassette 1 is tuned from true to false in a Haphazard fashion
+doInventoryCassette 2 is tuned from true to false in a Haphazard fashion
+doInventoryCassette 2 is tuned from false to true in a Haphazard fashion
+Velma breaks Record Player 1
+Record Playerremoved from the inventory
+doInventoryRecord Player 1 is tuned from true to false in a Haphazard fashion
+doInventoryRecord Player 2 is tuned from true to false in a Haphazard fashion
+doInventoryCD Player 2 is tuned from false to true in a Haphazard fashion
+doInventoryCD Player 3 is tuned from true to false in a Haphazard fashion
+doInventoryCD Player 3 is tuned from false to true in a Haphazard fashion
+doInventoryMP3 Player 1 is tuned from true to false in a Haphazard fashion
+doInventoryMP3 Player 2 is tuned from true to false in a Haphazard fashion
+doInventoryMP3 Player 2 is tuned from false to true in a Haphazard fashion
+doInventoryMP3 Player 3 is tuned from false to true in a Haphazard fashion
+Velma breaks Cassette Player 1
+Cassette Playerremoved from the inventory
+doInventoryCassette Player 1 is tuned from true to false in a Haphazard fashion
+doInventoryCassette Player 2 is tuned from false to true in a Haphazard fashion
+doInventorySaxophone 1 is tuned from true to false in a Haphazard fashion
+doInventorySaxophone 2 is tuned from false to true in a Haphazard fashion
+2
+Velma counts 2 paperscore
+Velma counts 3 cd
+Velma counts 3 vinyl
+Velma counts 3 guitar
+Velma counts 2 bass
+Velma counts 3 mandolin
+Velma counts 2 flute
+Velma counts 2 harmonica
+Velma counts 2 cassette
+Velma counts 2 recordplayer
+Velma counts 3 cdplayer
+Velma counts 3 mp3player
+Velma counts 1 cassetteplayer
+Velma counts 3 saxophone
+Velma counts 3 practiceamp
+Velma counts 2 cable
+Velma counts 3 strings
+Velma counts 4 gigbag
+Day 4: doInventory - There are 53 items in the Northside store
+Day 4: doInventory - There is 1321.4 of items in the Northside store
+Day 4: doInventory - 2 items were damaged during tuning
+7 buyers, 4 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a shirt
+Item is shirt in poor condition.
+Velma selling at $2.00
+Velma is selling shirt for $2.00 to Buyer 1
+inventory count: 53
+inventory count: 52
+Velma serving Buyer 2
+Buyer 2 wants to buy a cable
+Item is cable in good condition.
+Velma selling at $80.00
+Velma selling at $72.00
+Velma is selling cable for $72.00 to Buyer 2
+inventory count: 52
+inventory count: 51
+Velma serving Buyer 3
+Buyer 3 wants to buy a cd
+Item is cd in excellent condition.
+Velma selling at $28.00
+Velma is selling cd for $28.00 to Buyer 3
+inventory count: 51
+inventory count: 50
+Velma serving Buyer 4
+Buyer 4 wants to buy a bandana
+Item is bandana in poor condition.
+Velma selling at $38.00
+Velma selling at $34.20
+Velma is selling bandana for $34.20 to Buyer 4
+inventory count: 50
+inventory count: 49
+Velma serving Buyer 5
+Buyer 5 wants to buy a mandolin
+Item is mandolin in verygood condition.
+Velma selling at $6.00
+Velma selling at $5.40
+Velma is selling mandolin for $5.40 to Buyer 5
+inventory count: 49
+inventory count: 48
+Velma serving Buyer 6
+Buyer 6 wants to buy a cable
+Item is cable in good condition.
+Velma selling at $52.00
+Velma selling at $46.80
+Velma is selling cable for $46.80 to Buyer 6
+inventory count: 48
+inventory count: 47
+Velma serving Buyer 7
+Buyer 7 wants to buy a shirt
+Item is shirt in good condition.
+Velma selling at $94.00
+Velma is selling shirt for $94.00 to Buyer 7
+inventory count: 47
+inventory count: 46
+Day 4: openTheStore - 7 items were sold
+Velma serving Seller 1
+Seller 1 wants to sell a bandana
+Item is bandana in excellent condition.
+Velma offers $12.00
+Velma offers $13.20
+Velma is buying bandana for $13.20 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a strings
+Item is strings in fair condition.
+Velma offers $9.00
+Velma is buying strings for $9.00 from Seller 2
+Velma serving Seller 3
+Seller 3 wants to sell a vinyl
+Item is vinyl in verygood condition.
+Velma offers $30.00
+Velma is buying vinyl for $30.00 from Seller 3
+Velma serving Seller 4
+Seller 4 wants to sell a bass
+Item is bass in good condition.
+Velma offers $19.00
+Velma is buying bass for $19.00 from Seller 4
+Day 4: openTheStore - 4 items were purchased
+Velma is cleaning up the store.
+Velma doesn't break anything.
+Day 4: leaveTheStore - Velma locks up the Northside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma            7                 4               2
+     Daphne            0                 0               0
+     Shaggy            0                 0               0
+      Varun            0                 0               0
+      Alexa            5                 2               1
+       Fred            0                 0               0
+     Scooby            0                 0               0
+       Abhi            8                 3               0
+-------------------------------------------------------------------
+ 
+Store FNMS Southside opens today, day 4
+Fred is sick today.
+Velma is working today.
+Day 4: ArriveAtStore - Velma arrives at Southside FNMS Store
+Velma checking for arriving items.
+Velma putting a cable in inventory.
+Velma putting a cable in inventory.
+Velma putting a cable in inventory.
+Day 4: arriveAtStore - A total of 3 items were added to inventory
+Day 4: checkRegister - Velma finds $1,598.70 in register.
+Velma is doing inventory.
+Velma
+doInventoryBass 2 is tuned from false to true in a Haphazard fashion
+doInventoryMandolin 1 is tuned from true to false in a Haphazard fashion
+doInventoryMandolin 2 is tuned from true to false in a Haphazard fashion
+doInventoryMandolin 3 is tuned from false to true in a Haphazard fashion
+doInventoryFlute 2 is tuned from false to true in a Haphazard fashion
+doInventoryFlute 3 is tuned from true to false in a Haphazard fashion
+doInventoryCassette 1 is tuned from true to false in a Haphazard fashion
+doInventoryRecord Player 1 is tuned from true to false in a Haphazard fashion
+doInventoryRecord Player 1 is tuned from false to true in a Haphazard fashion
+doInventoryRecord Player 2 is tuned from true to false in a Haphazard fashion
+doInventoryRecord Player 3 is tuned from true to false in a Haphazard fashion
+doInventoryCD Player 1 is tuned from false to true in a Haphazard fashion
+doInventoryCD Player 2 is tuned from false to true in a Haphazard fashion
+doInventoryMP3 Player 1 is tuned from true to false in a Haphazard fashion
+doInventoryMP3 Player 2 is tuned from true to false in a Haphazard fashion
+doInventoryMP3 Player 2 is tuned from false to true in a Haphazard fashion
+doInventoryCassette Player 1 is tuned from false to true in a Haphazard fashion
+doInventoryCassette Player 2 is tuned from true to false in a Haphazard fashion
+doInventoryCassette Player 2 is tuned from false to true in a Haphazard fashion
+doInventoryCassette Player 3 is tuned from false to true in a Haphazard fashion
+doInventorySaxophone 1 is tuned from true to false in a Haphazard fashion
+doInventorySaxophone 1 is tuned from false to true in a Haphazard fashion
+doInventorySaxophone 2 is tuned from true to false in a Haphazard fashion
+doInventorySaxophone 2 is tuned from false to true in a Haphazard fashion
+0
+Velma counts 4 paperscore
+Velma counts 3 cd
+Velma counts 3 vinyl
+Velma counts 1 guitar
+Velma counts 3 bass
+Velma counts 3 mandolin
+Velma counts 3 flute
+Velma counts 2 harmonica
+Velma counts 3 cassette
+Velma counts 3 recordplayer
+Velma counts 2 cdplayer
+Velma counts 2 mp3player
+Velma counts 3 cassetteplayer
+Velma counts 2 saxophone
+Velma counts 3 practiceamp
+Velma counts 3 cable
+Velma counts 3 strings
+Velma counts 4 gigbag
+Day 4: doInventory - There are 60 items in the Southside store
+Day 4: doInventory - There is 1606.8999999999999 of items in the Southside store
+Day 4: doInventory - 0 items were damaged during tuning
+8 buyers, 1 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a vinyl
+Item is vinyl in good condition.
+Velma selling at $22.00
+Velma is selling vinyl for $22.00 to Buyer 1
+inventory count: 60
+inventory count: 59
+Velma serving Buyer 2
+Buyer 2 wants to buy a mp3player
+Item is mp3player in good condition.
+Velma selling at $24.00
+Velma is selling mp3player for $24.00 to Buyer 2
+inventory count: 59
+inventory count: 58
+Velma serving Buyer 3
+Buyer 3 wants to buy a strings
+Item is strings in poor condition.
+Velma selling at $34.00
+Velma is selling strings for $34.00 to Buyer 3
+inventory count: 58
+inventory count: 57
+Velma serving Buyer 4
+Buyer 4 wants to buy a guitar
+Item is guitar in excellent condition.
+Velma selling at $64.00
+Velma is selling guitar for $64.00 to Buyer 4
+inventory count: 57
+inventory count: 56
+Velma serving Buyer 5
+Buyer 5 wants to buy a harmonica
+Item is harmonica in verygood condition.
+Velma selling at $100.00
+Velma is selling harmonica for $100.00 to Buyer 5
+inventory count: 56
+inventory count: 55
+Velma serving Buyer 6
+Buyer 6 wants to buy a cable
+Item is cable in poor condition.
+Velma selling at $96.00
+Velma selling at $86.40
+Velma is selling cable for $86.40 to Buyer 6
+inventory count: 55
+inventory count: 54
+Velma serving Buyer 7
+Buyer 7 wants to buy a hat
+Item is hat in poor condition.
+Velma selling at $34.00
+Velma selling at $30.60
+Velma is selling hat for $30.60 to Buyer 7
+inventory count: 54
+inventory count: 53
+Velma serving Buyer 8
+Buyer 8 wants to buy a cd
+Item is cd in poor condition.
+Velma selling at $56.00
+Velma selling at $50.40
+Buyer 8 wouldn't buy item.
+Day 4: openTheStore - 7 items were sold
+Velma serving Seller 1
+Seller 1 wants to sell a bass
+Item is bass in poor condition.
+Velma offers $2.00
+Velma offers $2.20
+Velma is buying bass for $2.20 from Seller 1
+Day 4: openTheStore - 1 items were purchased
+Velma is cleaning up the store.
+Velma doesn't break anything.
+Day 4: leaveTheStore - Velma locks up the Southside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma            9                 3               1
+     Daphne            5                 6               1
+     Shaggy            6                 2               0
+      Varun            0                 0               0
+      Alexa            0                 0               0
+       Fred            0                 0               0
+     Scooby            0                 0               0
+       Abhi            0                 0               0
+-------------------------------------------------------------------
+ 
+*** Simulation day 5 ***
+ 
+Store FNMS Northside opens today, day 5
+Scooby is working today.
+Day 5: ArriveAtStore - Scooby arrives at Northside FNMS Store
+Scooby checking for arriving items.
+Day 5: arriveAtStore - A total of 0 items were added to inventory
+Day 5: checkRegister - Scooby finds $1,577.90 in register.
+Scooby is doing inventory.
+Scooby
+doInventoryGuitar 1 is tuned from false to true Electronically
+doInventoryGuitar 2 is tuned from false to true Electronically
+doInventoryGuitar 3 is tuned from false to true Electronically
+doInventoryBass 1 is tuned from false to true Electronically
+doInventoryBass 2 is tuned from false to true Electronically
+doInventoryBass 3 is tuned from false to true Electronically
+doInventoryMandolin 1 is tuned from false to true Electronically
+doInventoryMandolin 2 is tuned from false to true Electronically
+doInventoryFlute 1 is tuned from false to true Electronically
+doInventoryFlute 2 is tuned from false to true Electronically
+doInventoryHarmonica 1 is tuned from false to true Electronically
+doInventoryHarmonica 2 is tuned from false to true Electronically
+doInventoryRecord Player 1 is tuned from false to true Electronically
+doInventoryMP3 Player 1 is tuned from false to true Electronically
+doInventorySaxophone 1 is tuned from false to true Electronically
+doInventorySaxophone 2 is tuned from false to true Electronically
+doInventorySaxophone 3 is tuned from false to true Electronically
+0
+Scooby counts 2 paperscore
+Scooby counts 2 cd
+Scooby counts 4 vinyl
+Scooby counts 3 guitar
+Scooby counts 3 bass
+Scooby counts 2 mandolin
+Scooby counts 2 flute
+Scooby counts 2 harmonica
+Scooby counts 2 cassette
+Scooby counts 2 recordplayer
+Scooby counts 3 cdplayer
+Scooby counts 3 mp3player
+Scooby counts 1 cassetteplayer
+Scooby counts 3 saxophone
+Scooby counts 3 practiceamp
+Scooby counts 0 cable
+Scooby needs to order cable
+Scooby ordered a cable
+Scooby ordered a cable
+Scooby ordered a cable
+Day 5: placeAnOrder - 3 items were ordered
+Scooby counts 4 strings
+Scooby counts 4 gigbag
+Day 5: doInventory - There are 50 items in the Northside store
+Day 5: doInventory - There is 1242.6000000000001 of items in the Northside store
+Day 5: doInventory - 0 items were damaged during tuning
+4 buyers, 4 sellers today.
+Scooby serving Buyer 1
+Buyer 1 wants to buy a cable
+Buyer 1 doesn't buy, no items in stock.
+Scooby serving Buyer 2
+Buyer 2 wants to buy a cdplayer
+Item is cdplayer in fair condition.
+Scooby selling at $98.00
+Scooby is selling cdplayer for $98.00 to Buyer 2
+inventory count: 50
+inventory count: 49
+Scooby serving Buyer 3
+Buyer 3 wants to buy a recordplayer
+Item is recordplayer in verygood condition.
+Scooby selling at $36.00
+Scooby selling at $32.40
+Buyer 3 wouldn't buy item.
+Scooby serving Buyer 4
+Buyer 4 wants to buy a mandolin
+Item is mandolin in verygood condition.
+Scooby selling at $30.00
+Scooby selling at $27.00
+Buyer 4 wouldn't buy item.
+Day 5: openTheStore - 1 items were sold
+Scooby serving Seller 1
+Seller 1 wants to sell a cassetteplayer
+Item is cassetteplayer in good condition.
+Scooby offers $7.00
+Scooby offers $7.70
+Scooby is buying cassetteplayer for $7.70 from Seller 1
+Scooby serving Seller 2
+Seller 2 wants to sell a guitar
+Item is guitar in poor condition.
+Scooby offers $9.00
+Scooby is buying guitar for $9.00 from Seller 2
+Scooby serving Seller 3
+Seller 3 wants to sell a cassetteplayer
+Item is cassetteplayer in good condition.
+Scooby offers $19.00
+Scooby is buying cassetteplayer for $19.00 from Seller 3
+Scooby serving Seller 4
+Seller 4 wants to sell a saxophone
+Item is saxophone in poor condition.
+Scooby offers $2.00
+Scooby offers $2.20
+Scooby is buying saxophone for $2.20 from Seller 4
+Day 5: openTheStore - 4 items were purchased
+Scooby is cleaning up the store.
+Scooby doesn't break anything.
+Day 5: leaveTheStore - Scooby locks up the Northside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma            7                 4               2
+     Daphne            0                 0               0
+     Shaggy            0                 0               0
+      Varun            0                 0               0
+      Alexa            5                 2               1
+       Fred            0                 0               0
+     Scooby            1                 7               0
+       Abhi            8                 3               0
+-------------------------------------------------------------------
+ 
+Store FNMS Southside opens today, day 5
+Velma is working today.
+Day 5: ArriveAtStore - Velma arrives at Southside FNMS Store
+Velma checking for arriving items.
+Day 5: arriveAtStore - A total of 0 items were added to inventory
+Day 5: checkRegister - Velma finds $1,957.50 in register.
+Velma is doing inventory.
+Velma
+doInventoryBass 1 is tuned from false to true Manually
+doInventoryBass 2 is tuned from false to true Manually
+doInventoryBass 3 is tuned from false to true Manually
+doInventoryMandolin 1 is tuned from false to true Manually
+doInventoryMandolin 2 is tuned from false to true Manually
+doInventoryMandolin 3 is tuned from false to true Manually
+doInventoryFlute 3 is tuned from false to true Manually
+doInventoryHarmonica 1 is tuned from false to true Manually
+doInventoryCassette 2 is tuned from false to true Manually
+doInventoryCassette 3 is tuned from false to true Manually
+doInventoryRecord Player 1 is tuned from false to true Manually
+doInventoryRecord Player 2 is tuned from false to true Manually
+doInventoryRecord Player 3 is tuned from false to true Manually
+doInventoryCD Player 1 is tuned from false to true Manually
+doInventoryMP3 Player 1 is tuned from false to true Manually
+doInventoryCassette Player 1 is tuned from false to true Manually
+doInventoryCassette Player 2 is tuned from false to true Manually
+doInventoryCassette Player 2 is tuned from true to false Manually
+doInventorySaxophone 1 is tuned from false to true Manually
+doInventorySaxophone 2 is tuned from false to true Manually
+0
+Velma counts 4 paperscore
+Velma counts 3 cd
+Velma counts 2 vinyl
+Velma counts 0 guitar
+Velma needs to order guitar
+Velma ordered a guitar
+Velma ordered a guitar
+Velma ordered a guitar
+Day 5: placeAnOrder - 3 items were ordered
+Velma counts 4 bass
+Velma counts 3 mandolin
+Velma counts 3 flute
+Velma counts 1 harmonica
+Velma counts 3 cassette
+Velma counts 3 recordplayer
+Velma counts 2 cdplayer
+Velma counts 1 mp3player
+Velma counts 3 cassetteplayer
+Velma counts 2 saxophone
+Velma counts 3 practiceamp
+Velma counts 2 cable
+Velma counts 2 strings
+Velma counts 4 gigbag
+Day 5: doInventory - There are 54 items in the Southside store
+Day 5: doInventory - There is 1422.1 of items in the Southside store
+Day 5: doInventory - 0 items were damaged during tuning
+10 buyers, 1 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a saxophone
+Item is saxophone in poor condition.
+Velma selling at $22.00
+Velma is selling saxophone for $22.00 to Buyer 1
+inventory count: 54
+inventory count: 53
+Velma serving Buyer 2
+Buyer 2 wants to buy a bass
+Item is bass in poor condition.
+Velma selling at $4.40
+Velma is selling bass for $4.40 to Buyer 2
+inventory count: 53
+inventory count: 52
+Velma serving Buyer 3
+Buyer 3 wants to buy a guitar
+Buyer 3 doesn't buy, no items in stock.
+Velma serving Buyer 4
+Buyer 4 wants to buy a shirt
+Item is shirt in good condition.
+Velma selling at $22.00
+Velma selling at $19.80
+Buyer 4 wouldn't buy item.
+Velma serving Buyer 5
+Buyer 5 wants to buy a cd
+Item is cd in poor condition.
+Velma selling at $56.00
+Velma is selling cd for $56.00 to Buyer 5
+inventory count: 52
+inventory count: 51
+Velma serving Buyer 6
+Buyer 6 wants to buy a practiceamp
+Item is practiceamp in poor condition.
+Velma selling at $58.00
+Velma is selling practiceamp for $58.00 to Buyer 6
+inventory count: 51
+inventory count: 50
+Velma serving Buyer 7
+Buyer 7 wants to buy a cassette
+Item is cassette in poor condition.
+Velma selling at $4.00
+Velma selling at $3.60
+Velma is selling cassette for $3.60 to Buyer 7
+inventory count: 50
+inventory count: 49
+Velma serving Buyer 8
+Buyer 8 wants to buy a cassetteplayer
+Item is cassetteplayer in excellent condition.
+Velma selling at $24.20
+Velma is selling cassetteplayer for $24.20 to Buyer 8
+inventory count: 49
+inventory count: 48
+Velma serving Buyer 9
+Buyer 9 wants to buy a strings
+Item is strings in good condition.
+Velma selling at $86.00
+Velma is selling strings for $86.00 to Buyer 9
+inventory count: 48
+inventory count: 47
+Velma serving Buyer 10
+Buyer 10 wants to buy a harmonica
+Item is harmonica in fair condition.
+Velma selling at $80.00
+Velma selling at $72.00
+Velma is selling harmonica for $72.00 to Buyer 10
+inventory count: 47
+inventory count: 46
+Day 5: openTheStore - 8 items were sold
+Velma serving Seller 1
+Seller 1 wants to sell a vinyl
+Item is vinyl in verygood condition.
+Velma offers $15.00
+Velma offers $16.50
+Velma is buying vinyl for $16.50 from Seller 1
+Day 5: openTheStore - 1 items were purchased
+Velma is cleaning up the store.
+Velma doesn't break anything.
+Day 5: leaveTheStore - Velma locks up the Southside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma           17                 7               1
+     Daphne            5                 6               1
+     Shaggy            6                 2               0
+      Varun            0                 0               0
+      Alexa            0                 0               0
+       Fred            0                 0               0
+     Scooby            0                 0               0
+       Abhi            0                 0               0
+-------------------------------------------------------------------
+ 
+*** Simulation day 6 ***
+ 
+Store FNMS Northside opens today, day 6
+Varun is working today.
+Day 6: ArriveAtStore - Varun arrives at Northside FNMS Store
+Varun checking for arriving items.
+Varun putting a cable in inventory.
+Varun putting a cable in inventory.
+Varun putting a cable in inventory.
+Day 6: arriveAtStore - A total of 3 items were added to inventory
+Day 6: checkRegister - Varun finds $1,638.00 in register.
+Varun is doing inventory.
+Varun
+Varun breaks Guitar 1
+Item list prize is reduced
+doInventoryGuitar 1 is tuned from true to false in a Haphazard fashion
+doInventoryGuitar 2 is tuned from false to true in a Haphazard fashion
+doInventoryGuitar 3 is tuned from true to false in a Haphazard fashion
+doInventoryGuitar 4 is tuned from false to true in a Haphazard fashion
+doInventoryBass 2 is tuned from true to false in a Haphazard fashion
+doInventoryBass 3 is tuned from true to false in a Haphazard fashion
+doInventoryMandolin 1 is tuned from false to true in a Haphazard fashion
+doInventoryFlute 1 is tuned from true to false in a Haphazard fashion
+doInventoryFlute 1 is tuned from false to true in a Haphazard fashion
+Varun breaks Harmonica 1
+Harmonicaremoved from the inventory
+doInventoryHarmonica 1 is tuned from true to false in a Haphazard fashion
+doInventoryCassette 1 is tuned from true to false in a Haphazard fashion
+doInventoryCassette 1 is tuned from false to true in a Haphazard fashion
+doInventoryCD Player 2 is tuned from true to false in a Haphazard fashion
+doInventoryMP3 Player 1 is tuned from true to false in a Haphazard fashion
+doInventoryMP3 Player 1 is tuned from false to true in a Haphazard fashion
+doInventoryMP3 Player 2 is tuned from true to false in a Haphazard fashion
+doInventoryMP3 Player 3 is tuned from true to false in a Haphazard fashion
+doInventoryMP3 Player 3 is tuned from false to true in a Haphazard fashion
+doInventoryCassette Player 1 is tuned from true to false in a Haphazard fashion
+doInventoryCassette Player 2 is tuned from true to false in a Haphazard fashion
+doInventoryCassette Player 3 is tuned from true to false in a Haphazard fashion
+doInventoryCassette Player 3 is tuned from false to true in a Haphazard fashion
+doInventorySaxophone 1 is tuned from true to false in a Haphazard fashion
+doInventorySaxophone 2 is tuned from false to true in a Haphazard fashion
+2
+Varun counts 2 paperscore
+Varun counts 2 cd
+Varun counts 4 vinyl
+Varun counts 4 guitar
+Varun counts 3 bass
+Varun counts 2 mandolin
+Varun counts 2 flute
+Varun counts 1 harmonica
+Varun counts 2 cassette
+Varun counts 2 recordplayer
+Varun counts 2 cdplayer
+Varun counts 3 mp3player
+Varun counts 3 cassetteplayer
+Varun counts 4 saxophone
+Varun counts 3 practiceamp
+Varun counts 3 cable
+Varun counts 4 strings
+Varun counts 4 gigbag
+Day 6: doInventory - There are 55 items in the Northside store
+Day 6: doInventory - There is 1295.5000000000002 of items in the Northside store
+Day 6: doInventory - 2 items were damaged during tuning
+6 buyers, 2 sellers today.
+Varun serving Buyer 1
+Buyer 1 wants to buy a recordplayer
+Item is recordplayer in verygood condition.
+Varun selling at $36.00
+Varun selling at $32.40
+Varun is selling recordplayer for $32.40 to Buyer 1
+inventory count: 55
+inventory count: 54
+Varun serving Buyer 2
+Buyer 2 wants to buy a shirt
+Item is shirt in good condition.
+Varun selling at $54.00
+Varun is selling shirt for $54.00 to Buyer 2
+inventory count: 54
+inventory count: 53
+Varun serving Buyer 3
+Buyer 3 wants to buy a bass
+Item is bass in good condition.
+Varun selling at $38.00
+Varun is selling bass for $38.00 to Buyer 3
+inventory count: 53
+inventory count: 52
+Varun serving Buyer 4
+Buyer 4 wants to buy a bass
+Item is bass in verygood condition.
+Varun selling at $16.00
+Varun selling at $14.40
+Varun is selling bass for $14.40 to Buyer 4
+inventory count: 52
+inventory count: 51
+Varun serving Buyer 5
+Buyer 5 wants to buy a vinyl
+Item is vinyl in verygood condition.
+Varun selling at $60.00
+Varun selling at $54.00
+Buyer 5 wouldn't buy item.
+Varun serving Buyer 6
+Buyer 6 wants to buy a hat
+Item is hat in fair condition.
+Varun selling at $22.00
+Varun selling at $19.80
+Varun is selling hat for $19.80 to Buyer 6
+inventory count: 51
+inventory count: 50
+Day 6: openTheStore - 5 items were sold
+Varun serving Seller 1
+Seller 1 wants to sell a mandolin
+Item is mandolin in excellent condition.
+Varun offers $11.00
+Varun is buying mandolin for $11.00 from Seller 1
+Varun serving Seller 2
+Seller 2 wants to sell a shirt
+Item is shirt in excellent condition.
+Varun offers $34.00
+Varun offers $37.40
+Varun is buying shirt for $37.40 from Seller 2
+Day 6: openTheStore - 2 items were purchased
+Varun is cleaning up the store.
+Varun doesn't break anything.
+Day 6: leaveTheStore - Varun locks up the Northside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma            7                 4               2
+     Daphne            0                 0               0
+     Shaggy            0                 0               0
+      Varun            5                 2               2
+      Alexa            5                 2               1
+       Fred            0                 0               0
+     Scooby            1                 7               0
+       Abhi            8                 3               0
+-------------------------------------------------------------------
+ 
+Store FNMS Southside opens today, day 6
+Varun is working today.
+Day 6: ArriveAtStore - Varun arrives at Southside FNMS Store
+Varun checking for arriving items.
+Varun putting a guitar in inventory.
+Varun putting a guitar in inventory.
+Varun putting a guitar in inventory.
+Day 6: arriveAtStore - A total of 3 items were added to inventory
+Day 6: checkRegister - Varun finds $2,267.20 in register.
+Varun is doing inventory.
+Varun
+doInventoryGuitar 1 is tuned from false to true Electronically
+doInventoryGuitar 2 is tuned from false to true Electronically
+doInventoryGuitar 3 is tuned from false to true Electronically
+doInventoryBass 1 is tuned from false to true Electronically
+doInventoryBass 2 is tuned from false to true Electronically
+doInventoryBass 3 is tuned from false to true Electronically
+doInventoryMandolin 1 is tuned from false to true Electronically
+doInventoryMandolin 2 is tuned from false to true Electronically
+doInventoryMandolin 3 is tuned from false to true Electronically
+doInventoryFlute 1 is tuned from false to true Electronically
+doInventoryFlute 2 is tuned from false to true Electronically
+doInventoryFlute 3 is tuned from false to true Electronically
+doInventoryCassette Player 2 is tuned from false to true Electronically
+doInventorySaxophone 1 is tuned from false to true Electronically
+0
+Varun counts 4 paperscore
+Varun counts 2 cd
+Varun counts 3 vinyl
+Varun counts 3 guitar
+Varun counts 3 bass
+Varun counts 3 mandolin
+Varun counts 3 flute
+Varun counts 0 harmonica
+Varun needs to order harmonica
+Varun ordered a harmonica
+Varun ordered a harmonica
+Varun ordered a harmonica
+Day 6: placeAnOrder - 3 items were ordered
+Varun counts 2 cassette
+Varun counts 3 recordplayer
+Varun counts 2 cdplayer
+Varun counts 1 mp3player
+Varun counts 2 cassetteplayer
+Varun counts 1 saxophone
+Varun counts 2 practiceamp
+Varun counts 2 cable
+Varun counts 1 strings
+Varun counts 4 gigbag
+Day 6: doInventory - There are 50 items in the Southside store
+Day 6: doInventory - There is 1390.3 of items in the Southside store
+Day 6: doInventory - 0 items were damaged during tuning
+9 buyers, 4 sellers today.
+Varun serving Buyer 1
+Buyer 1 wants to buy a recordplayer
+Item is recordplayer in good condition.
+Varun selling at $32.00
+Varun is selling recordplayer for $32.00 to Buyer 1
+inventory count: 50
+inventory count: 49
+Varun serving Buyer 2
+Buyer 2 wants to buy a saxophone
+Item is saxophone in poor condition.
+Varun selling at $80.00
+Varun is selling saxophone for $80.00 to Buyer 2
+inventory count: 49
+inventory count: 48
+Varun serving Buyer 3
+Buyer 3 wants to buy a strings
+Item is strings in good condition.
+Varun selling at $94.00
+Varun is selling strings for $94.00 to Buyer 3
+inventory count: 48
+inventory count: 47
+Varun serving Buyer 4
+Buyer 4 wants to buy a cable
+Item is cable in fair condition.
+Varun selling at $82.00
+Varun is selling cable for $82.00 to Buyer 4
+inventory count: 47
+inventory count: 46
+Varun serving Buyer 5
+Buyer 5 wants to buy a shirt
+Item is shirt in good condition.
+Varun selling at $22.00
+Varun is selling shirt for $22.00 to Buyer 5
+inventory count: 46
+inventory count: 45
+Varun serving Buyer 6
+Buyer 6 wants to buy a practiceamp
+Item is practiceamp in excellent condition.
+Varun selling at $98.00
+Varun selling at $88.20
+Varun is selling practiceamp for $88.20 to Buyer 6
+inventory count: 45
+inventory count: 44
+Varun serving Buyer 7
+Buyer 7 wants to buy a gigbag
+Item is gigbag in fair condition.
+Varun selling at $39.60
+Varun is selling gigbag for $39.60 to Buyer 7
+inventory count: 44
+inventory count: 43
+Varun serving Buyer 8
+Buyer 8 wants to buy a cassetteplayer
+Item is cassetteplayer in verygood condition.
+Varun selling at $16.00
+Varun is selling cassetteplayer for $16.00 to Buyer 8
+inventory count: 43
+inventory count: 42
+Varun serving Buyer 9
+Buyer 9 wants to buy a gigbag
+Item is gigbag in verygood condition.
+Varun selling at $74.00
+Varun is selling gigbag for $74.00 to Buyer 9
+inventory count: 42
+inventory count: 41
+Day 6: openTheStore - 9 items were sold
+Varun serving Seller 1
+Seller 1 wants to sell a harmonica
+Item is harmonica in excellent condition.
+Varun offers $27.00
+Varun offers $29.70
+Varun is buying harmonica for $29.70 from Seller 1
+Varun serving Seller 2
+Seller 2 wants to sell a practiceamp
+Item is practiceamp in good condition.
+Varun offers $14.00
+Varun is buying practiceamp for $14.00 from Seller 2
+Varun serving Seller 3
+Seller 3 wants to sell a cassette
+Item is cassette in fair condition.
+Varun offers $20.00
+Varun offers $22.00
+Varun is buying cassette for $22.00 from Seller 3
+Varun serving Seller 4
+Seller 4 wants to sell a recordplayer
+Item is recordplayer in verygood condition.
+Varun offers $16.00
+Varun offers $17.60
+Varun is buying recordplayer for $17.60 from Seller 4
+Day 6: openTheStore - 4 items were purchased
+Varun is cleaning up the store.
+Varun doesn't break anything.
+Day 6: leaveTheStore - Varun locks up the Southside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma           17                 7               1
+     Daphne            5                 6               1
+     Shaggy            6                 2               0
+      Varun            9                 7               0
+      Alexa            0                 0               0
+       Fred            0                 0               0
+     Scooby            0                 0               0
+       Abhi            0                 0               0
+-------------------------------------------------------------------
+ 
+*** Simulation day 7 ***
+Store is closed today, day 7
+Store is closed today, day 7
+ 
+*** Simulation day 8 ***
+ 
+Store FNMS Northside opens today, day 8
+Abhi is working today.
+Day 8: ArriveAtStore - Abhi arrives at Northside FNMS Store
+Abhi checking for arriving items.
+Day 8: arriveAtStore - A total of 0 items were added to inventory
+Day 8: checkRegister - Abhi finds $1,748.20 in register.
+Abhi is doing inventory.
+Abhi
+doInventoryGuitar 1 is tuned from false to true in a Haphazard fashion
+doInventoryGuitar 2 is tuned from true to false in a Haphazard fashion
+doInventoryGuitar 4 is tuned from true to false in a Haphazard fashion
+doInventoryGuitar 4 is tuned from false to true in a Haphazard fashion
+doInventoryBass 1 is tuned from false to true in a Haphazard fashion
+doInventoryMandolin 1 is tuned from false to true in a Haphazard fashion
+doInventoryMandolin 3 is tuned from true to false in a Haphazard fashion
+doInventoryFlute 2 is tuned from false to true in a Haphazard fashion
+doInventoryHarmonica 1 is tuned from true to false in a Haphazard fashion
+doInventoryHarmonica 1 is tuned from false to true in a Haphazard fashion
+doInventoryCassette 1 is tuned from true to false in a Haphazard fashion
+doInventoryCassette 1 is tuned from false to true in a Haphazard fashion
+doInventoryRecord Player 1 is tuned from true to false in a Haphazard fashion
+doInventoryRecord Player 1 is tuned from false to true in a Haphazard fashion
+doInventoryCD Player 1 is tuned from false to true in a Haphazard fashion
+doInventoryMP3 Player 1 is tuned from true to false in a Haphazard fashion
+doInventoryMP3 Player 1 is tuned from false to true in a Haphazard fashion
+doInventoryCassette Player 1 is tuned from false to true in a Haphazard fashion
+doInventoryCassette Player 2 is tuned from false to true in a Haphazard fashion
+Abhi breaks Cassette Player 3
+Item list prize is reduced
+doInventoryCassette Player 3 is tuned from true to false in a Haphazard fashion
+doInventoryCassette Player 3 is tuned from false to true in a Haphazard fashion
+doInventorySaxophone 1 is tuned from true to false in a Haphazard fashion
+doInventorySaxophone 2 is tuned from true to false in a Haphazard fashion
+Abhi breaks Saxophone 3
+Saxophoneremoved from the inventory
+doInventorySaxophone 3 is tuned from true to false in a Haphazard fashion
+doInventorySaxophone 4 is tuned from true to false in a Haphazard fashion
+doInventorySaxophone 4 is tuned from false to true in a Haphazard fashion
+2
+Abhi counts 2 paperscore
+Abhi counts 2 cd
+Abhi counts 4 vinyl
+Abhi counts 4 guitar
+Abhi counts 1 bass
+Abhi counts 3 mandolin
+Abhi counts 2 flute
+Abhi counts 1 harmonica
+Abhi counts 2 cassette
+Abhi counts 1 recordplayer
+Abhi counts 2 cdplayer
+Abhi counts 3 mp3player
+Abhi counts 3 cassetteplayer
+Abhi counts 3 saxophone
+Abhi counts 3 practiceamp
+Abhi counts 3 cable
+Abhi counts 4 strings
+Abhi counts 4 gigbag
+Day 8: doInventory - There are 51 items in the Northside store
+Day 8: doInventory - There is 1237.9 of items in the Northside store
+Day 8: doInventory - 2 items were damaged during tuning
+9 buyers, 1 sellers today.
+Abhi serving Buyer 1
+Buyer 1 wants to buy a shirt
+Item is shirt in excellent condition.
+Abhi selling at $74.80
+Abhi is selling shirt for $74.80 to Buyer 1
+inventory count: 51
+inventory count: 50
+Abhi serving Buyer 2
+Buyer 2 wants to buy a flute
+Item is flute in verygood condition.
+Abhi selling at $10.00
+Abhi is selling flute for $10.00 to Buyer 2
+inventory count: 50
+inventory count: 49
+Abhi serving Buyer 3
+Buyer 3 wants to buy a cd
+Item is cd in good condition.
+Abhi selling at $52.00
+Abhi is selling cd for $52.00 to Buyer 3
+inventory count: 49
+inventory count: 48
+Abhi serving Buyer 4
+Buyer 4 wants to buy a hat
+Buyer 4 doesn't buy, no items in stock.
+Abhi serving Buyer 5
+Buyer 5 wants to buy a recordplayer
+Item is recordplayer in poor condition.
+Abhi selling at $78.00
+Abhi is selling recordplayer for $78.00 to Buyer 5
+inventory count: 48
+inventory count: 47
+Abhi serving Buyer 6
+Buyer 6 wants to buy a mp3player
+Item is mp3player in fair condition.
+Abhi selling at $30.00
+Abhi is selling mp3player for $30.00 to Buyer 6
+inventory count: 47
+inventory count: 46
+Abhi serving Buyer 7
+Buyer 7 wants to buy a flute
+Item is flute in good condition.
+Abhi selling at $24.00
+Abhi is selling flute for $24.00 to Buyer 7
+inventory count: 46
+inventory count: 45
+Abhi serving Buyer 8
+Buyer 8 wants to buy a cd
+Item is cd in verygood condition.
+Abhi selling at $84.00
+Abhi is selling cd for $84.00 to Buyer 8
+inventory count: 45
+inventory count: 44
+Abhi serving Buyer 9
+Buyer 9 wants to buy a cable
+Item is cable in fair condition.
+Abhi selling at $42.00
+Abhi is selling cable for $42.00 to Buyer 9
+inventory count: 44
+inventory count: 43
+Day 8: openTheStore - 8 items were sold
+Abhi serving Seller 1
+Seller 1 wants to sell a hat
+Item is hat in excellent condition.
+Abhi offers $23.00
+Abhi offers $25.30
+Abhi is buying hat for $25.30 from Seller 1
+Day 8: openTheStore - 1 items were purchased
+Abhi is cleaning up the store.
+Abhi doesn't break anything.
+Day 8: leaveTheStore - Abhi locks up the Northside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma            7                 4               2
+     Daphne            0                 0               0
+     Shaggy            0                 0               0
+      Varun            5                 2               2
+      Alexa            5                 2               1
+       Fred            0                 0               0
+     Scooby            1                 7               0
+       Abhi           16                 4               2
+-------------------------------------------------------------------
+ 
+Store FNMS Southside opens today, day 8
+Alexa is working today.
+Day 8: ArriveAtStore - Alexa arrives at Southside FNMS Store
+Alexa checking for arriving items.
+Day 8: arriveAtStore - A total of 0 items were added to inventory
+Day 8: checkRegister - Alexa finds $2,711.70 in register.
+Alexa is doing inventory.
+Alexa
+doInventoryGuitar 1 is tuned from true to false Manually
+doInventoryGuitar 2 is tuned from false to true Manually
+doInventoryGuitar 2 is tuned from true to false Manually
+doInventoryBass 1 is tuned from false to true Manually
+doInventoryBass 2 is tuned from false to true Manually
+doInventoryBass 3 is tuned from false to true Manually
+doInventoryMandolin 2 is tuned from true to false Manually
+doInventoryFlute 1 is tuned from true to false Manually
+doInventoryFlute 2 is tuned from false to true Manually
+doInventoryFlute 3 is tuned from false to true Manually
+doInventoryHarmonica 1 is tuned from false to true Manually
+doInventoryCassette 1 is tuned from false to true Manually
+doInventoryCassette 2 is tuned from false to true Manually
+doInventoryCassette 2 is tuned from true to false Manually
+doInventoryCassette 3 is tuned from false to true Manually
+doInventoryRecord Player 1 is tuned from false to true Manually
+doInventoryRecord Player 2 is tuned from false to true Manually
+doInventoryRecord Player 3 is tuned from false to true Manually
+doInventoryCD Player 1 is tuned from false to true Manually
+doInventoryMP3 Player 1 is tuned from false to true Manually
+doInventoryCassette Player 1 is tuned from false to true Manually
+0
+Alexa counts 4 paperscore
+Alexa counts 2 cd
+Alexa counts 3 vinyl
+Alexa counts 3 guitar
+Alexa counts 3 bass
+Alexa counts 3 mandolin
+Alexa counts 3 flute
+Alexa counts 1 harmonica
+Alexa counts 3 cassette
+Alexa counts 3 recordplayer
+Alexa counts 2 cdplayer
+Alexa counts 1 mp3player
+Alexa counts 1 cassetteplayer
+Alexa counts 0 saxophone
+Alexa needs to order saxophone
+Alexa ordered a saxophone
+Alexa ordered a saxophone
+Alexa ordered a saxophone
+Day 8: placeAnOrder - 3 items were ordered
+Alexa counts 2 practiceamp
+Alexa counts 1 cable
+Alexa counts 0 strings
+Alexa needs to order strings
+Alexa ordered a strings
+Alexa ordered a strings
+Alexa ordered a strings
+Day 8: placeAnOrder - 3 items were ordered
+Alexa counts 2 gigbag
+Day 8: doInventory - There are 45 items in the Southside store
+Day 8: doInventory - There is 1200.8 of items in the Southside store
+Day 8: doInventory - 0 items were damaged during tuning
+7 buyers, 2 sellers today.
+Alexa serving Buyer 1
+Buyer 1 wants to buy a flute
+Item is flute in poor condition.
+Alexa selling at $42.00
+Alexa is selling flute for $42.00 to Buyer 1
+inventory count: 45
+inventory count: 44
+Alexa serving Buyer 2
+Buyer 2 wants to buy a paperscore
+Item is paperscore in excellent condition.
+Alexa selling at $24.00
+Alexa is selling paperscore for $24.00 to Buyer 2
+inventory count: 44
+inventory count: 43
+Alexa serving Buyer 3
+Buyer 3 wants to buy a cassette
+Item is cassette in fair condition.
+Alexa selling at $44.00
+Alexa selling at $39.60
+Alexa is selling cassette for $39.60 to Buyer 3
+inventory count: 43
+inventory count: 42
+Alexa serving Buyer 4
+Buyer 4 wants to buy a vinyl
+Item is vinyl in verygood condition.
+Alexa selling at $33.00
+Alexa is selling vinyl for $33.00 to Buyer 4
+inventory count: 42
+inventory count: 41
+Alexa serving Buyer 5
+Buyer 5 wants to buy a harmonica
+Item is harmonica in excellent condition.
+Alexa selling at $59.40
+Alexa is selling harmonica for $59.40 to Buyer 5
+inventory count: 41
+inventory count: 40
+Alexa serving Buyer 6
+Buyer 6 wants to buy a hat
+Item is hat in verygood condition.
+Alexa selling at $70.00
+Alexa selling at $63.00
+Alexa is selling hat for $63.00 to Buyer 6
+inventory count: 40
+inventory count: 39
+Alexa serving Buyer 7
+Buyer 7 wants to buy a cassette
+Item is cassette in poor condition.
+Alexa selling at $92.00
+Alexa is selling cassette for $92.00 to Buyer 7
+inventory count: 39
+inventory count: 38
+Day 8: openTheStore - 7 items were sold
+Alexa serving Seller 1
+Seller 1 wants to sell a guitar
+Item is guitar in fair condition.
+Alexa offers $10.00
+Alexa offers $11.00
+Alexa is buying guitar for $11.00 from Seller 1
+Alexa serving Seller 2
+Seller 2 wants to sell a strings
+Item is strings in good condition.
+Alexa offers $23.00
+Alexa is buying strings for $23.00 from Seller 2
+Day 8: openTheStore - 2 items were purchased
+Alexa is cleaning up the store.
+Alexa doesn't break anything.
+Day 8: leaveTheStore - Alexa locks up the Southside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma           17                 7               1
+     Daphne            5                 6               1
+     Shaggy            6                 2               0
+      Varun            9                 7               0
+      Alexa            7                 8               0
+       Fred            0                 0               0
+     Scooby            0                 0               0
+       Abhi            0                 0               0
+-------------------------------------------------------------------
+ 
+*** Simulation day 9 ***
+ 
+Store FNMS Northside opens today, day 9
+Scooby is working today.
+Day 9: ArriveAtStore - Scooby arrives at Northside FNMS Store
+Scooby checking for arriving items.
+Day 9: arriveAtStore - A total of 0 items were added to inventory
+Day 9: checkRegister - Scooby finds $2,117.70 in register.
+Scooby is doing inventory.
+Scooby
+doInventoryGuitar 1 is tuned from false to true Electronically
+doInventoryGuitar 2 is tuned from false to true Electronically
+doInventoryGuitar 3 is tuned from false to true Electronically
+doInventoryGuitar 4 is tuned from false to true Electronically
+doInventoryBass 1 is tuned from false to true Electronically
+doInventoryMandolin 1 is tuned from false to true Electronically
+doInventoryMandolin 2 is tuned from false to true Electronically
+doInventoryMandolin 3 is tuned from false to true Electronically
+doInventoryHarmonica 1 is tuned from false to true Electronically
+doInventoryCD Player 2 is tuned from false to true Electronically
+doInventoryMP3 Player 2 is tuned from false to true Electronically
+doInventorySaxophone 1 is tuned from false to true Electronically
+doInventorySaxophone 2 is tuned from false to true Electronically
+doInventorySaxophone 3 is tuned from false to true Electronically
+0
+Scooby counts 2 paperscore
+Scooby counts 0 cd
+Scooby needs to order cd
+Scooby ordered a cd
+Scooby ordered a cd
+Scooby ordered a cd
+Day 9: placeAnOrder - 3 items were ordered
+Scooby counts 4 vinyl
+Scooby counts 4 guitar
+Scooby counts 1 bass
+Scooby counts 3 mandolin
+Scooby counts 0 flute
+Scooby needs to order flute
+Scooby ordered a flute
+Scooby ordered a flute
+Scooby ordered a flute
+Day 9: placeAnOrder - 3 items were ordered
+Scooby counts 1 harmonica
+Scooby counts 2 cassette
+Scooby counts 0 recordplayer
+Scooby needs to order recordplayer
+Scooby ordered a recordplayer
+Scooby ordered a recordplayer
+Scooby ordered a recordplayer
+Day 9: placeAnOrder - 3 items were ordered
+Scooby counts 2 cdplayer
+Scooby counts 2 mp3player
+Scooby counts 3 cassetteplayer
+Scooby counts 3 saxophone
+Scooby counts 3 practiceamp
+Scooby counts 2 cable
+Scooby counts 4 strings
+Scooby counts 4 gigbag
+Day 9: doInventory - There are 44 items in the Northside store
+Day 9: doInventory - There is 1065.8 of items in the Northside store
+Day 9: doInventory - 0 items were damaged during tuning
+6 buyers, 4 sellers today.
+Scooby serving Buyer 1
+Buyer 1 wants to buy a bandana
+Item is bandana in excellent condition.
+Scooby selling at $26.40
+Scooby is selling bandana for $26.40 to Buyer 1
+inventory count: 44
+inventory count: 43
+Scooby serving Buyer 2
+Buyer 2 wants to buy a harmonica
+Item is harmonica in fair condition.
+Scooby selling at $6.00
+Scooby is selling harmonica for $6.00 to Buyer 2
+inventory count: 43
+inventory count: 42
+Scooby serving Buyer 3
+Buyer 3 wants to buy a recordplayer
+Buyer 3 doesn't buy, no items in stock.
+Scooby serving Buyer 4
+Buyer 4 wants to buy a gigbag
+Item is gigbag in poor condition.
+Scooby selling at $8.80
+Scooby selling at $7.92
+Scooby is selling gigbag for $7.92 to Buyer 4
+inventory count: 42
+inventory count: 41
+Scooby serving Buyer 5
+Buyer 5 wants to buy a cdplayer
+Item is cdplayer in good condition.
+Scooby selling at $56.00
+Scooby is selling cdplayer for $56.00 to Buyer 5
+inventory count: 41
+inventory count: 40
+Scooby serving Buyer 6
+Buyer 6 wants to buy a cable
+Item is cable in fair condition.
+Scooby selling at $98.00
+Scooby is selling cable for $98.00 to Buyer 6
+inventory count: 40
+inventory count: 39
+Day 9: openTheStore - 5 items were sold
+Scooby serving Seller 1
+Seller 1 wants to sell a mandolin
+Item is mandolin in verygood condition.
+Scooby offers $11.00
+Scooby is buying mandolin for $11.00 from Seller 1
+Scooby serving Seller 2
+Seller 2 wants to sell a cassette
+Item is cassette in poor condition.
+Scooby offers $10.00
+Scooby offers $11.00
+Scooby is buying cassette for $11.00 from Seller 2
+Scooby serving Seller 3
+Seller 3 wants to sell a cd
+Item is cd in verygood condition.
+Scooby offers $12.00
+Scooby is buying cd for $12.00 from Seller 3
+Scooby serving Seller 4
+Seller 4 wants to sell a cassette
+Item is cassette in poor condition.
+Scooby offers $10.00
+Scooby offers $11.00
+Scooby is buying cassette for $11.00 from Seller 4
+Day 9: openTheStore - 4 items were purchased
+Scooby is cleaning up the store.
+Scooby doesn't break anything.
+Day 9: leaveTheStore - Scooby locks up the Northside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma            7                 4               2
+     Daphne            0                 0               0
+     Shaggy            0                 0               0
+      Varun            5                 2               2
+      Alexa            5                 2               1
+       Fred            0                 0               0
+     Scooby            6                20               0
+       Abhi           16                 4               2
+-------------------------------------------------------------------
+ 
+Store FNMS Southside opens today, day 9
+Varun is working today.
+Day 9: ArriveAtStore - Varun arrives at Southside FNMS Store
+Varun checking for arriving items.
+Varun putting a saxophone in inventory.
+Varun putting a saxophone in inventory.
+Varun putting a saxophone in inventory.
+Varun putting a strings in inventory.
+Varun putting a strings in inventory.
+Varun putting a strings in inventory.
+Day 9: arriveAtStore - A total of 6 items were added to inventory
+Day 9: checkRegister - Varun finds $3,030.70 in register.
+Varun is doing inventory.
+Varun
+doInventoryGuitar 1 is tuned from false to true Electronically
+doInventoryGuitar 2 is tuned from false to true Electronically
+doInventoryGuitar 3 is tuned from false to true Electronically
+doInventoryGuitar 4 is tuned from false to true Electronically
+doInventoryBass 1 is tuned from false to true Electronically
+doInventoryBass 2 is tuned from false to true Electronically
+doInventoryBass 3 is tuned from false to true Electronically
+doInventoryMandolin 1 is tuned from false to true Electronically
+doInventoryMandolin 2 is tuned from false to true Electronically
+doInventoryMandolin 3 is tuned from false to true Electronically
+doInventoryFlute 1 is tuned from false to true Electronically
+doInventoryFlute 2 is tuned from false to true Electronically
+doInventorySaxophone 1 is tuned from false to true Electronically
+doInventorySaxophone 2 is tuned from false to true Electronically
+doInventorySaxophone 3 is tuned from false to true Electronically
+0
+Varun counts 3 paperscore
+Varun counts 2 cd
+Varun counts 2 vinyl
+Varun counts 4 guitar
+Varun counts 3 bass
+Varun counts 3 mandolin
+Varun counts 2 flute
+Varun counts 0 harmonica
+Varun needs to order harmonica
+There is an order coming for harmonica
+Day 9: placeAnOrder - 0 items were ordered
+Varun counts 1 cassette
+Varun counts 3 recordplayer
+Varun counts 2 cdplayer
+Varun counts 1 mp3player
+Varun counts 1 cassetteplayer
+Varun counts 3 saxophone
+Varun counts 2 practiceamp
+Varun counts 1 cable
+Varun counts 4 strings
+Varun counts 2 gigbag
+Day 9: doInventory - There are 46 items in the Southside store
+Day 9: doInventory - There is 1204.6 of items in the Southside store
+Day 9: doInventory - 0 items were damaged during tuning
+9 buyers, 4 sellers today.
+Varun serving Buyer 1
+Buyer 1 wants to buy a recordplayer
+Item is recordplayer in verygood condition.
+Varun selling at $35.20
+Varun is selling recordplayer for $35.20 to Buyer 1
+inventory count: 46
+inventory count: 45
+Varun serving Buyer 2
+Buyer 2 wants to buy a practiceamp
+Item is practiceamp in good condition.
+Varun selling at $28.00
+Varun is selling practiceamp for $28.00 to Buyer 2
+inventory count: 45
+inventory count: 44
+Varun serving Buyer 3
+Buyer 3 wants to buy a bass
+Item is bass in poor condition.
+Varun selling at $10.00
+Varun is selling bass for $10.00 to Buyer 3
+inventory count: 44
+inventory count: 43
+Varun serving Buyer 4
+Buyer 4 wants to buy a vinyl
+Item is vinyl in good condition.
+Varun selling at $36.00
+Varun selling at $32.40
+Varun is selling vinyl for $32.40 to Buyer 4
+inventory count: 43
+inventory count: 42
+Varun serving Buyer 5
+Buyer 5 wants to buy a harmonica
+Buyer 5 doesn't buy, no items in stock.
+Varun serving Buyer 6
+Buyer 6 wants to buy a hat
+Item is hat in verygood condition.
+Varun selling at $50.00
+Varun is selling hat for $50.00 to Buyer 6
+inventory count: 42
+inventory count: 41
+Varun serving Buyer 7
+Buyer 7 wants to buy a paperscore
+Item is paperscore in poor condition.
+Varun selling at $36.00
+Varun selling at $32.40
+Varun is selling paperscore for $32.40 to Buyer 7
+inventory count: 41
+inventory count: 40
+Varun serving Buyer 8
+Buyer 8 wants to buy a practiceamp
+Item is practiceamp in poor condition.
+Varun selling at $54.00
+Varun selling at $48.60
+Varun is selling practiceamp for $48.60 to Buyer 8
+inventory count: 40
+inventory count: 39
+Varun serving Buyer 9
+Buyer 9 wants to buy a mandolin
+Item is mandolin in verygood condition.
+Varun selling at $56.00
+Varun selling at $50.40
+Varun is selling mandolin for $50.40 to Buyer 9
+inventory count: 39
+inventory count: 38
+Day 9: openTheStore - 8 items were sold
+Varun serving Seller 1
+Seller 1 wants to sell a practiceamp
+Item is practiceamp in fair condition.
+Varun offers $14.00
+Varun is buying practiceamp for $14.00 from Seller 1
+Varun serving Seller 2
+Seller 2 wants to sell a saxophone
+Item is saxophone in good condition.
+Varun offers $27.00
+Varun is buying saxophone for $27.00 from Seller 2
+Varun serving Seller 3
+Seller 3 wants to sell a saxophone
+Item is saxophone in poor condition.
+Varun offers $6.00
+Varun offers $6.60
+Varun is buying saxophone for $6.60 from Seller 3
+Varun serving Seller 4
+Seller 4 wants to sell a mandolin
+Item is mandolin in poor condition.
+Varun offers $6.00
+Varun is buying mandolin for $6.00 from Seller 4
+Day 9: openTheStore - 4 items were purchased
+Varun is cleaning up the store.
+Varun doesn't break anything.
+Day 9: leaveTheStore - Varun locks up the Southside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma           17                 7               1
+     Daphne            5                 6               1
+     Shaggy            6                 2               0
+      Varun           17                11               0
+      Alexa            7                 8               0
+       Fred            0                 0               0
+     Scooby            0                 0               0
+       Abhi            0                 0               0
+-------------------------------------------------------------------
+ 
+*** Simulation day 10 ***
+ 
+Store FNMS Northside opens today, day 10
+Velma is working today.
+Day 10: ArriveAtStore - Velma arrives at Northside FNMS Store
+Velma checking for arriving items.
+Velma putting a flute in inventory.
+Velma putting a flute in inventory.
+Velma putting a flute in inventory.
+Day 10: arriveAtStore - A total of 3 items were added to inventory
+Day 10: checkRegister - Velma finds $2,267.02 in register.
+Velma is doing inventory.
+Velma
+doInventoryGuitar 1 is tuned from false to true Manually
+doInventoryGuitar 2 is tuned from false to true Manually
+doInventoryGuitar 2 is tuned from true to false Manually
+doInventoryGuitar 3 is tuned from false to true Manually
+doInventoryGuitar 3 is tuned from true to false Manually
+doInventoryBass 1 is tuned from false to true Manually
+doInventoryMandolin 1 is tuned from false to true Manually
+doInventoryMandolin 2 is tuned from false to true Manually
+doInventoryMandolin 3 is tuned from false to true Manually
+doInventoryMandolin 4 is tuned from false to true Manually
+doInventoryFlute 1 is tuned from false to true Manually
+doInventoryFlute 1 is tuned from true to false Manually
+doInventoryFlute 2 is tuned from false to true Manually
+doInventoryFlute 3 is tuned from false to true Manually
+doInventoryCassette 1 is tuned from false to true Manually
+doInventoryCassette 2 is tuned from false to true Manually
+doInventoryCassette 3 is tuned from false to true Manually
+doInventoryCassette 4 is tuned from false to true Manually
+doInventoryCD Player 1 is tuned from false to true Manually
+doInventoryMP3 Player 2 is tuned from false to true Manually
+doInventoryMP3 Player 2 is tuned from true to false Manually
+doInventoryCassette Player 1 is tuned from false to true Manually
+doInventoryCassette Player 2 is tuned from false to true Manually
+doInventoryCassette Player 2 is tuned from true to false Manually
+doInventoryCassette Player 3 is tuned from true to false Manually
+doInventorySaxophone 2 is tuned from false to true Manually
+doInventorySaxophone 3 is tuned from false to true Manually
+0
+Velma counts 2 paperscore
+Velma counts 1 cd
+Velma counts 4 vinyl
+Velma counts 4 guitar
+Velma counts 1 bass
+Velma counts 4 mandolin
+Velma counts 3 flute
+Velma counts 0 harmonica
+Velma needs to order harmonica
+Velma ordered a harmonica
+Velma ordered a harmonica
+Velma ordered a harmonica
+Day 10: placeAnOrder - 3 items were ordered
+Velma counts 4 cassette
+Velma counts 0 recordplayer
+Velma needs to order recordplayer
+There is an order coming for recordplayer
+Day 10: placeAnOrder - 0 items were ordered
+Velma counts 1 cdplayer
+Velma counts 2 mp3player
+Velma counts 3 cassetteplayer
+Velma counts 3 saxophone
+Velma counts 3 practiceamp
+Velma counts 1 cable
+Velma counts 4 strings
+Velma counts 3 gigbag
+Day 10: doInventory - There are 46 items in the Northside store
+Day 10: doInventory - There is 1110.2 of items in the Northside store
+Day 10: doInventory - 0 items were damaged during tuning
+9 buyers, 3 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a recordplayer
+Buyer 1 doesn't buy, no items in stock.
+Velma serving Buyer 2
+Buyer 2 wants to buy a recordplayer
+Buyer 2 doesn't buy, no items in stock.
+Velma serving Buyer 3
+Buyer 3 wants to buy a hat
+Item is hat in excellent condition.
+Velma selling at $50.60
+Velma selling at $45.54
+Buyer 3 wouldn't buy item.
+Velma serving Buyer 4
+Buyer 4 wants to buy a gigbag
+Item is gigbag in verygood condition.
+Velma selling at $70.00
+Velma selling at $63.00
+Velma is selling gigbag for $63.00 to Buyer 4
+inventory count: 46
+inventory count: 45
+Velma serving Buyer 5
+Buyer 5 wants to buy a hat
+Item is hat in excellent condition.
+Velma selling at $50.60
+Velma selling at $45.54
+Buyer 5 wouldn't buy item.
+Velma serving Buyer 6
+Buyer 6 wants to buy a practiceamp
+Item is practiceamp in verygood condition.
+Velma selling at $44.00
+Velma selling at $39.60
+Velma is selling practiceamp for $39.60 to Buyer 6
+inventory count: 45
+inventory count: 44
+Velma serving Buyer 7
+Buyer 7 wants to buy a paperscore
+Item is paperscore in verygood condition.
+Velma selling at $44.00
+Velma is selling paperscore for $44.00 to Buyer 7
+inventory count: 44
+inventory count: 43
+Velma serving Buyer 8
+Buyer 8 wants to buy a flute
+Item is flute in verygood condition.
+Velma selling at $58.00
+Velma is selling flute for $58.00 to Buyer 8
+inventory count: 43
+inventory count: 42
+Velma serving Buyer 9
+Buyer 9 wants to buy a vinyl
+Item is vinyl in verygood condition.
+Velma selling at $60.00
+Velma selling at $54.00
+Velma is selling vinyl for $54.00 to Buyer 9
+inventory count: 42
+inventory count: 41
+Day 10: openTheStore - 5 items were sold
+Velma serving Seller 1
+Seller 1 wants to sell a bass
+Item is bass in verygood condition.
+Velma offers $21.00
+Velma is buying bass for $21.00 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a practiceamp
+Item is practiceamp in poor condition.
+Velma offers $10.00
+Velma is buying practiceamp for $10.00 from Seller 2
+Velma serving Seller 3
+Seller 3 wants to sell a cassetteplayer
+Item is cassetteplayer in verygood condition.
+Velma offers $33.00
+Velma offers $36.30
+Velma is buying cassetteplayer for $36.30 from Seller 3
+Day 10: openTheStore - 3 items were purchased
+Velma is cleaning up the store.
+Velma doesn't break anything.
+Day 10: leaveTheStore - Velma locks up the Northside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma           12                10               2
+     Daphne            0                 0               0
+     Shaggy            0                 0               0
+      Varun            5                 2               2
+      Alexa            5                 2               1
+       Fred            0                 0               0
+     Scooby            6                20               0
+       Abhi           16                 4               2
+-------------------------------------------------------------------
+ 
+Store FNMS Southside opens today, day 10
+Varun is working today.
+Day 10: ArriveAtStore - Varun arrives at Southside FNMS Store
+Varun checking for arriving items.
+Day 10: arriveAtStore - A total of 0 items were added to inventory
+Day 10: checkRegister - Varun finds $3,264.10 in register.
+Varun is doing inventory.
+Varun
+doInventoryGuitar 1 is tuned from false to true Electronically
+doInventoryGuitar 2 is tuned from false to true Electronically
+doInventoryGuitar 3 is tuned from false to true Electronically
+doInventoryGuitar 4 is tuned from false to true Electronically
+doInventoryBass 1 is tuned from false to true Electronically
+doInventoryBass 2 is tuned from false to true Electronically
+doInventoryMandolin 1 is tuned from false to true Electronically
+doInventoryMandolin 2 is tuned from false to true Electronically
+doInventoryMandolin 3 is tuned from false to true Electronically
+doInventoryFlute 1 is tuned from false to true Electronically
+doInventoryFlute 2 is tuned from false to true Electronically
+doInventorySaxophone 1 is tuned from false to true Electronically
+doInventorySaxophone 2 is tuned from false to true Electronically
+doInventorySaxophone 3 is tuned from false to true Electronically
+doInventorySaxophone 4 is tuned from false to true Electronically
+doInventorySaxophone 5 is tuned from false to true Electronically
+0
+Varun counts 2 paperscore
+Varun counts 2 cd
+Varun counts 1 vinyl
+Varun counts 4 guitar
+Varun counts 2 bass
+Varun counts 3 mandolin
+Varun counts 2 flute
+Varun counts 0 harmonica
+Varun needs to order harmonica
+There is an order coming for harmonica
+Day 10: placeAnOrder - 0 items were ordered
+Varun counts 1 cassette
+Varun counts 2 recordplayer
+Varun counts 2 cdplayer
+Varun counts 1 mp3player
+Varun counts 1 cassetteplayer
+Varun counts 5 saxophone
+Varun counts 1 practiceamp
+Varun counts 1 cable
+Varun counts 4 strings
+Varun counts 2 gigbag
+Day 10: doInventory - There are 42 items in the Southside store
+Day 10: doInventory - There is 1105.6 of items in the Southside store
+Day 10: doInventory - 0 items were damaged during tuning
+5 buyers, 4 sellers today.
+Varun serving Buyer 1
+Buyer 1 wants to buy a cassetteplayer
+Item is cassetteplayer in good condition.
+Varun selling at $34.00
+Varun selling at $30.60
+Varun is selling cassetteplayer for $30.60 to Buyer 1
+inventory count: 42
+inventory count: 41
+Varun serving Buyer 2
+Buyer 2 wants to buy a shirt
+Item is shirt in verygood condition.
+Varun selling at $92.00
+Varun selling at $82.80
+Varun is selling shirt for $82.80 to Buyer 2
+inventory count: 41
+inventory count: 40
+Varun serving Buyer 3
+Buyer 3 wants to buy a bass
+Item is bass in poor condition.
+Varun selling at $86.00
+Varun selling at $77.40
+Varun is selling bass for $77.40 to Buyer 3
+inventory count: 40
+inventory count: 39
+Varun serving Buyer 4
+Buyer 4 wants to buy a flute
+Item is flute in fair condition.
+Varun selling at $14.00
+Varun selling at $12.60
+Varun is selling flute for $12.60 to Buyer 4
+inventory count: 39
+inventory count: 38
+Varun serving Buyer 5
+Buyer 5 wants to buy a practiceamp
+Item is practiceamp in fair condition.
+Varun selling at $28.00
+Varun selling at $25.20
+Varun is selling practiceamp for $25.20 to Buyer 5
+inventory count: 38
+inventory count: 37
+Day 10: openTheStore - 5 items were sold
+Varun serving Seller 1
+Seller 1 wants to sell a cassette
+Item is cassette in fair condition.
+Varun offers $5.00
+Varun offers $5.50
+Varun is buying cassette for $5.50 from Seller 1
+Varun serving Seller 2
+Seller 2 wants to sell a mp3player
+Item is mp3player in good condition.
+Varun offers $7.00
+Varun is buying mp3player for $7.00 from Seller 2
+Varun serving Seller 3
+Seller 3 wants to sell a recordplayer
+Item is recordplayer in good condition.
+Varun offers $18.00
+Varun is buying recordplayer for $18.00 from Seller 3
+Varun serving Seller 4
+Seller 4 wants to sell a cassette
+Item is cassette in verygood condition.
+Varun offers $24.00
+Varun offers $26.40
+Varun is buying cassette for $26.40 from Seller 4
+Day 10: openTheStore - 4 items were purchased
+Varun is cleaning up the store.
+Varun doesn't break anything.
+Day 10: leaveTheStore - Varun locks up the Southside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma           17                 7               1
+     Daphne            5                 6               1
+     Shaggy            6                 2               0
+      Varun           22                15               0
+      Alexa            7                 8               0
+       Fred            0                 0               0
+     Scooby            0                 0               0
+       Abhi            0                 0               0
+-------------------------------------------------------------------
+Choose a store: 1->FNMS Northside    2->FNMS Southside
+1
+Welcome to Store FNMS Northside
+Name
+I'm Velma
+Time
+This is day 11 and the time is 23:08:07
+Sell
+Velma serving Seller 1
+What do you want to sell?
+GIGBAG
+Seller 1 wants to sell a gigbag
+Item is gigbag in excellent condition.
+Velma offers $20.00
+Do you want to sell?
+no
+Velma offers $22.00
+Do you want to sell?
+Yes
+Velma is buying gigbag for $22.00 from Seller 1
+Buy
+Velma serving Buyer 1
+What do you want to buy?
+GUITAR
+Buyer 1 wants to buy a guitar
+Item is guitar in poor condition.
+Velma selling at $18.00
+Do you want to buy?
+Yes
+Velma is selling guitar for $18.00 to Buyer 1
+inventory count: 45
+inventory count: 44
+Toggle
+Welcome to Store FNMS Southside
+Guitar Kit
+Southside uses factory A
+Pickup A price 17
+Pickup B price 39
+Pickup C price 23
+enter the choice Southside items for pickups Pickup A or Pickup B or Pickup C
+Pickup A
+Knobset A price 27
+Knobset B price 36
+Knobset C price 12
+enter the choice Southside items for knobset Knobset A or Knobset B or Knobset C
+Knobset A
+Covers A price 28
+Covers B price 23
+Covers C price 16
+enter the choice Southside items for Covers Covers A or Covers B or Covers C
+Covers B 
+Neck A price 26
+Neck B price 47
+Neck C price 14
+enter the choice Southside items for Neck Neck A or Neck B or Neck C
+Neck C
+Pickguard A price 4
+Pickguard B price 18
+Pickguard C price 38
+enter the choice Southside items for Pickguard Pickguard A or Pickguard B or Pickguard C
+Pickguard A
+Bridge A price 40
+Bridge B price 38
+Bridge C price 8
+enter the choice Southside items for Bridge Bridge A or Bridge B or Bridge C
+Bridge C
+Customer bought the Guitar kit for price: 70.0
+ 
+
+Velma is cleaning up the store.
+Velma doesn't break anything.
+Day 10: leaveTheStore - Velma locks up the Northside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma           12                10               2
+     Daphne            0                 0               0
+     Shaggy            0                 0               0
+      Varun            5                 2               2
+      Alexa            5                 2               1
+       Fred            0                 0               0
+     Scooby            6                20               0
+       Abhi           16                 4               2
+-------------------------------------------------------------------
+Varun is cleaning up the store.
+Varun doesn't break anything.
+Day 10: leaveTheStore - Varun locks up the Southside store and leaves.
+
+-------------------------------------------------------------------
+      Clerk   Items Sold   Items Purchased   Items Damaged
+-------------------------------------------------------------------
+      Velma           17                 7               1
+     Daphne            5                 6               1
+     Shaggy            6                 2               0
+      Varun           22                15               0
+      Alexa            7                 8               0
+       Fred            0                 0               0
+     Scooby            0                 0               0
+       Abhi            0                 0               0
+-------------------------------------------------------------------
+##########################################################
+                          Summary:                        
+##########################################################
+Northside Store summary
+Items In Inventory:
+Paper Score
+Vinyl
+Guitar
+Bass
+Mandolin
+Cassette
+CD Player
+MP3 Player
+Saxophone
+Bandana
+Practice Amp
+Strings
+Gig Bag
+Vinyl
+Guitar
+Mandolin
+Cassette
+MP3 Player
+Cassette Player
+Saxophone
+Bandana
+Practice Amp
+Strings
+Gig Bag
+Vinyl
+Guitar
+Strings
+Strings
+Cassette Player
+Cassette Player
+Saxophone
+Cable
+Mandolin
+Hat
+Mandolin
+Cassette
+CD
+Cassette
+Flute
+Flute
+Bass
+Practice Amp
+Cassette Player
+Gig Bag
+Total Inventory Value: 1052.5
+
+Items Sold During Simulation:
+Name: Cable Day Sold: 1 Sale Price: 3.6
+Name: Bass Day Sold: 1 Sale Price: 90.0
+Name: Hat Day Sold: 1 Sale Price: 8.0
+Name: Bandana Day Sold: 2 Sale Price: 19.8
+Name: Cassette Day Sold: 2 Sale Price: 3.6
+Name: Flute Day Sold: 2 Sale Price: 72.0
+Name: Harmonica Day Sold: 2 Sale Price: 8.0
+Name: Hat Day Sold: 2 Sale Price: 12.6
+Name: Record Player Day Sold: 3 Sale Price: 59.4
+Name: Strings Day Sold: 3 Sale Price: 78.0
+Name: Paper Score Day Sold: 3 Sale Price: 16.0
+Name: Cassette Player Day Sold: 3 Sale Price: 56.0
+Name: Cassette Day Sold: 3 Sale Price: 16.0
+Name: Shirt Day Sold: 4 Sale Price: 2.0
+Name: Cable Day Sold: 4 Sale Price: 72.0
+Name: CD Day Sold: 4 Sale Price: 28.0
+Name: Bandana Day Sold: 4 Sale Price: 34.2
+Name: Mandolin Day Sold: 4 Sale Price: 5.4
+Name: Cable Day Sold: 4 Sale Price: 46.800000000000004
+Name: Shirt Day Sold: 4 Sale Price: 94.0
+Name: CD Player Day Sold: 5 Sale Price: 98.0
+Name: Record Player Day Sold: 6 Sale Price: 32.4
+Name: Shirt Day Sold: 6 Sale Price: 54.0
+Name: Bass Day Sold: 6 Sale Price: 38.0
+Name: Bass Day Sold: 6 Sale Price: 14.4
+Name: Hat Day Sold: 6 Sale Price: 19.8
+Name: Shirt Day Sold: 8 Sale Price: 74.8
+Name: Flute Day Sold: 8 Sale Price: 10.0
+Name: CD Day Sold: 8 Sale Price: 52.0
+Name: Record Player Day Sold: 8 Sale Price: 78.0
+Name: MP3 Player Day Sold: 8 Sale Price: 30.0
+Name: Flute Day Sold: 8 Sale Price: 24.0
+Name: CD Day Sold: 8 Sale Price: 84.0
+Name: Cable Day Sold: 8 Sale Price: 42.0
+Name: Bandana Day Sold: 9 Sale Price: 26.4
+Name: Harmonica Day Sold: 9 Sale Price: 6.0
+Name: Gig Bag Day Sold: 9 Sale Price: 7.920000000000001
+Name: CD Player Day Sold: 9 Sale Price: 56.0
+Name: Cable Day Sold: 9 Sale Price: 98.0
+Name: Gig Bag Day Sold: 10 Sale Price: 63.0
+Name: Practice Amp Day Sold: 10 Sale Price: 39.6
+Name: Paper Score Day Sold: 10 Sale Price: 44.0
+Name: Flute Day Sold: 10 Sale Price: 58.0
+Name: Vinyl Day Sold: 10 Sale Price: 54.0
+Name: Guitar Day Sold: 10 Sale Price: 18.0
+Total Sales Value: 953.9
+
+Total Value In Cash Register: 2454.3199999999993
+Total $ Added from goToBank: 1000.0
+Southside Store summary
+Items In Inventory:
+Paper Score
+CD
+Vinyl
+Bass
+Mandolin
+Flute
+Cassette
+Record Player
+CD Player
+MP3 Player
+Shirt
+Bandana
+Gig Bag
+Paper Score
+CD
+Mandolin
+Record Player
+Bandana
+Gig Bag
+Bandana
+Bandana
+CD Player
+Cable
+Guitar
+Guitar
+Guitar
+Guitar
+Strings
+Saxophone
+Saxophone
+Saxophone
+Strings
+Strings
+Strings
+Saxophone
+Saxophone
+Mandolin
+Cassette
+MP3 Player
+Record Player
+Cassette
+Total Inventory Value: 1035.5
+
+Items Sold During Simulation:
+Name: Guitar Day Sold: 1 Sale Price: 50.0
+Name: Cable Day Sold: 1 Sale Price: 70.0
+Name: Cable Day Sold: 1 Sale Price: 39.6
+Name: Saxophone Day Sold: 1 Sale Price: 36.0
+Name: Harmonica Day Sold: 1 Sale Price: 45.0
+Name: Cassette Player Day Sold: 1 Sale Price: 84.0
+Name: Cable Day Sold: 2 Sale Price: 23.400000000000002
+Name: CD Player Day Sold: 2 Sale Price: 96.0
+Name: Hat Day Sold: 3 Sale Price: 37.800000000000004
+Name: CD Player Day Sold: 3 Sale Price: 96.0
+Name: Guitar Day Sold: 3 Sale Price: 26.0
+Name: MP3 Player Day Sold: 3 Sale Price: 100.0
+Name: Shirt Day Sold: 3 Sale Price: 10.8
+Name: Vinyl Day Sold: 4 Sale Price: 22.0
+Name: MP3 Player Day Sold: 4 Sale Price: 24.0
+Name: Strings Day Sold: 4 Sale Price: 34.0
+Name: Guitar Day Sold: 4 Sale Price: 64.0
+Name: Harmonica Day Sold: 4 Sale Price: 100.0
+Name: Cable Day Sold: 4 Sale Price: 86.4
+Name: Hat Day Sold: 4 Sale Price: 30.6
+Name: Saxophone Day Sold: 5 Sale Price: 22.0
+Name: Bass Day Sold: 5 Sale Price: 4.4
+Name: CD Day Sold: 5 Sale Price: 56.0
+Name: Practice Amp Day Sold: 5 Sale Price: 58.0
+Name: Cassette Day Sold: 5 Sale Price: 3.6
+Name: Cassette Player Day Sold: 5 Sale Price: 24.2
+Name: Strings Day Sold: 5 Sale Price: 86.0
+Name: Harmonica Day Sold: 5 Sale Price: 72.0
+Name: Record Player Day Sold: 6 Sale Price: 32.0
+Name: Saxophone Day Sold: 6 Sale Price: 80.0
+Name: Strings Day Sold: 6 Sale Price: 94.0
+Name: Cable Day Sold: 6 Sale Price: 82.0
+Name: Shirt Day Sold: 6 Sale Price: 22.0
+Name: Practice Amp Day Sold: 6 Sale Price: 88.2
+Name: Gig Bag Day Sold: 6 Sale Price: 39.6
+Name: Cassette Player Day Sold: 6 Sale Price: 16.0
+Name: Gig Bag Day Sold: 6 Sale Price: 74.0
+Name: Flute Day Sold: 8 Sale Price: 42.0
+Name: Paper Score Day Sold: 8 Sale Price: 24.0
+Name: Cassette Day Sold: 8 Sale Price: 39.6
+Name: Vinyl Day Sold: 8 Sale Price: 33.0
+Name: Harmonica Day Sold: 8 Sale Price: 59.4
+Name: Hat Day Sold: 8 Sale Price: 63.0
+Name: Cassette Day Sold: 8 Sale Price: 92.0
+Name: Record Player Day Sold: 9 Sale Price: 35.2
+Name: Practice Amp Day Sold: 9 Sale Price: 28.0
+Name: Bass Day Sold: 9 Sale Price: 10.0
+Name: Vinyl Day Sold: 9 Sale Price: 32.4
+Name: Hat Day Sold: 9 Sale Price: 50.0
+Name: Paper Score Day Sold: 9 Sale Price: 32.4
+Name: Practice Amp Day Sold: 9 Sale Price: 48.6
+Name: Mandolin Day Sold: 9 Sale Price: 50.4
+Name: Cassette Player Day Sold: 10 Sale Price: 30.6
+Name: Shirt Day Sold: 10 Sale Price: 82.8
+Name: Bass Day Sold: 10 Sale Price: 77.4
+Name: Flute Day Sold: 10 Sale Price: 12.6
+Name: Practice Amp Day Sold: 10 Sale Price: 25.2
+Name: Guitar Day Sold: 0 Sale Price: 0.0
+Total Sales Value: 1526.8999999999999
+
+Total Value In Cash Register: 3435.7999999999997
+Total $ Added from goToBank: 1000.0
+Warning: the fonts "Times" and "Times" are not available for the Java logical font "Serif", which may have unexpected appearance or behavior. Re-enable the "Times" font to remove this warning.
+##########################################################
+                          Summary:                        
+##########################################################
+Northside Store summary
+Items In Inventory:
+Paper Score
+Vinyl
+Guitar
+Bass
+Mandolin
+Cassette
+CD Player
+MP3 Player
+Saxophone
+Bandana
+Practice Amp
+Strings
+Gig Bag
+Vinyl
+Guitar
+Mandolin
+Cassette
+MP3 Player
+Cassette Player
+Saxophone
+Bandana
+Practice Amp
+Strings
+Gig Bag
+Vinyl
+Guitar
+Strings
+Strings
+Cassette Player
+Cassette Player
+Saxophone
+Cable
+Mandolin
+Hat
+Mandolin
+Cassette
+CD
+Cassette
+Flute
+Flute
+Bass
+Practice Amp
+Cassette Player
+Gig Bag
+Total Inventory Value: 1052.5
+
+Items Sold During Simulation:
+Name: Cable Day Sold: 1 Sale Price: 3.6
+Name: Bass Day Sold: 1 Sale Price: 90.0
+Name: Hat Day Sold: 1 Sale Price: 8.0
+Name: Bandana Day Sold: 2 Sale Price: 19.8
+Name: Cassette Day Sold: 2 Sale Price: 3.6
+Name: Flute Day Sold: 2 Sale Price: 72.0
+Name: Harmonica Day Sold: 2 Sale Price: 8.0
+Name: Hat Day Sold: 2 Sale Price: 12.6
+Name: Record Player Day Sold: 3 Sale Price: 59.4
+Name: Strings Day Sold: 3 Sale Price: 78.0
+Name: Paper Score Day Sold: 3 Sale Price: 16.0
+Name: Cassette Player Day Sold: 3 Sale Price: 56.0
+Name: Cassette Day Sold: 3 Sale Price: 16.0
+Name: Shirt Day Sold: 4 Sale Price: 2.0
+Name: Cable Day Sold: 4 Sale Price: 72.0
+Name: CD Day Sold: 4 Sale Price: 28.0
+Name: Bandana Day Sold: 4 Sale Price: 34.2
+Name: Mandolin Day Sold: 4 Sale Price: 5.4
+Name: Cable Day Sold: 4 Sale Price: 46.800000000000004
+Name: Shirt Day Sold: 4 Sale Price: 94.0
+Name: CD Player Day Sold: 5 Sale Price: 98.0
+Name: Record Player Day Sold: 6 Sale Price: 32.4
+Name: Shirt Day Sold: 6 Sale Price: 54.0
+Name: Bass Day Sold: 6 Sale Price: 38.0
+Name: Bass Day Sold: 6 Sale Price: 14.4
+Name: Hat Day Sold: 6 Sale Price: 19.8
+Name: Shirt Day Sold: 8 Sale Price: 74.8
+Name: Flute Day Sold: 8 Sale Price: 10.0
+Name: CD Day Sold: 8 Sale Price: 52.0
+Name: Record Player Day Sold: 8 Sale Price: 78.0
+Name: MP3 Player Day Sold: 8 Sale Price: 30.0
+Name: Flute Day Sold: 8 Sale Price: 24.0
+Name: CD Day Sold: 8 Sale Price: 84.0
+Name: Cable Day Sold: 8 Sale Price: 42.0
+Name: Bandana Day Sold: 9 Sale Price: 26.4
+Name: Harmonica Day Sold: 9 Sale Price: 6.0
+Name: Gig Bag Day Sold: 9 Sale Price: 7.920000000000001
+Name: CD Player Day Sold: 9 Sale Price: 56.0
+Name: Cable Day Sold: 9 Sale Price: 98.0
+Name: Gig Bag Day Sold: 10 Sale Price: 63.0
+Name: Practice Amp Day Sold: 10 Sale Price: 39.6
+Name: Paper Score Day Sold: 10 Sale Price: 44.0
+Name: Flute Day Sold: 10 Sale Price: 58.0
+Name: Vinyl Day Sold: 10 Sale Price: 54.0
+Name: Guitar Day Sold: 10 Sale Price: 18.0
+Total Sales Value: 953.9
+
+Total Value In Cash Register: 2454.3199999999993
+Total $ Added from goToBank: 1000.0
+Southside Store summary
+Items In Inventory:
+Paper Score
+CD
+Vinyl
+Bass
+Mandolin
+Flute
+Cassette
+Record Player
+CD Player
+MP3 Player
+Shirt
+Bandana
+Gig Bag
+Paper Score
+CD
+Mandolin
+Record Player
+Bandana
+Gig Bag
+Bandana
+Bandana
+CD Player
+Cable
+Guitar
+Guitar
+Guitar
+Guitar
+Strings
+Saxophone
+Saxophone
+Saxophone
+Strings
+Strings
+Strings
+Saxophone
+Saxophone
+Mandolin
+Cassette
+MP3 Player
+Record Player
+Cassette
+Total Inventory Value: 1035.5
+
+Items Sold During Simulation:
+Name: Guitar Day Sold: 1 Sale Price: 50.0
+Name: Cable Day Sold: 1 Sale Price: 70.0
+Name: Cable Day Sold: 1 Sale Price: 39.6
+Name: Saxophone Day Sold: 1 Sale Price: 36.0
+Name: Harmonica Day Sold: 1 Sale Price: 45.0
+Name: Cassette Player Day Sold: 1 Sale Price: 84.0
+Name: Cable Day Sold: 2 Sale Price: 23.400000000000002
+Name: CD Player Day Sold: 2 Sale Price: 96.0
+Name: Hat Day Sold: 3 Sale Price: 37.800000000000004
+Name: CD Player Day Sold: 3 Sale Price: 96.0
+Name: Guitar Day Sold: 3 Sale Price: 26.0
+Name: MP3 Player Day Sold: 3 Sale Price: 100.0
+Name: Shirt Day Sold: 3 Sale Price: 10.8
+Name: Vinyl Day Sold: 4 Sale Price: 22.0
+Name: MP3 Player Day Sold: 4 Sale Price: 24.0
+Name: Strings Day Sold: 4 Sale Price: 34.0
+Name: Guitar Day Sold: 4 Sale Price: 64.0
+Name: Harmonica Day Sold: 4 Sale Price: 100.0
+Name: Cable Day Sold: 4 Sale Price: 86.4
+Name: Hat Day Sold: 4 Sale Price: 30.6
+Name: Saxophone Day Sold: 5 Sale Price: 22.0
+Name: Bass Day Sold: 5 Sale Price: 4.4
+Name: CD Day Sold: 5 Sale Price: 56.0
+Name: Practice Amp Day Sold: 5 Sale Price: 58.0
+Name: Cassette Day Sold: 5 Sale Price: 3.6
+Name: Cassette Player Day Sold: 5 Sale Price: 24.2
+Name: Strings Day Sold: 5 Sale Price: 86.0
+Name: Harmonica Day Sold: 5 Sale Price: 72.0
+Name: Record Player Day Sold: 6 Sale Price: 32.0
+Name: Saxophone Day Sold: 6 Sale Price: 80.0
+Name: Strings Day Sold: 6 Sale Price: 94.0
+Name: Cable Day Sold: 6 Sale Price: 82.0
+Name: Shirt Day Sold: 6 Sale Price: 22.0
+Name: Practice Amp Day Sold: 6 Sale Price: 88.2
+Name: Gig Bag Day Sold: 6 Sale Price: 39.6
+Name: Cassette Player Day Sold: 6 Sale Price: 16.0
+Name: Gig Bag Day Sold: 6 Sale Price: 74.0
+Name: Flute Day Sold: 8 Sale Price: 42.0
+Name: Paper Score Day Sold: 8 Sale Price: 24.0
+Name: Cassette Day Sold: 8 Sale Price: 39.6
+Name: Vinyl Day Sold: 8 Sale Price: 33.0
+Name: Harmonica Day Sold: 8 Sale Price: 59.4
+Name: Hat Day Sold: 8 Sale Price: 63.0
+Name: Cassette Day Sold: 8 Sale Price: 92.0
+Name: Record Player Day Sold: 9 Sale Price: 35.2
+Name: Practice Amp Day Sold: 9 Sale Price: 28.0
+Name: Bass Day Sold: 9 Sale Price: 10.0
+Name: Vinyl Day Sold: 9 Sale Price: 32.4
+Name: Hat Day Sold: 9 Sale Price: 50.0
+Name: Paper Score Day Sold: 9 Sale Price: 32.4
+Name: Practice Amp Day Sold: 9 Sale Price: 48.6
+Name: Mandolin Day Sold: 9 Sale Price: 50.4
+Name: Cassette Player Day Sold: 10 Sale Price: 30.6
+Name: Shirt Day Sold: 10 Sale Price: 82.8
+Name: Bass Day Sold: 10 Sale Price: 77.4
+Name: Flute Day Sold: 10 Sale Price: 12.6
+Name: Practice Amp Day Sold: 10 Sale Price: 25.2
+Name: Guitar Day Sold: 0 Sale Price: 0.0
+Total Sales Value: 1526.8999999999999
+
+Total Value In Cash Register: 3435.7999999999997
+Total $ Added from goToBank: 1000.0
